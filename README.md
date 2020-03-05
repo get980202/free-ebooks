@@ -1,6 +1,6 @@
 # :books: free-ebooks :books:
 
-Place to keep free ebooks about Computer Science and Math.
+Place to keep free ebooks about :desktop_computer: Computer Science and :1234: Math.
 
 ### :speech_balloon: Languages
 
