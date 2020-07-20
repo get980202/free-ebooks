@@ -3,22 +3,23 @@
 
 | Book | Copyright |
 |:----:|:---------:|
-| Codigo Limpo_ Habilidades e Praticas do Agile Software |  |
+| Codigo Limpo_ Habilidades e Praticas do Agile Software | Copyright © 2009 Pearson Education, Inc. |
 | Logica de programacao_ Crie seus primeiros programas usando Javascript e HTML |  |
-| Algorithms For Dummies |  |
-| Concise Guide to Object-Oriented Programming |  |
-| Design Patterns For Dummies |  |
-| Guide to Competitive Programming |  |
-| Guide to Data Structures |  |
-| Introduction to Algorithms - 3rd ed |  |
-| Learning Object-Oriented Programming |  |
-| Object-Oriented Analysis, Design and Implementation |  |
+| Algorithms For Dummies | Copyright © 2017 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Clean Code_ A Handbook of Agile Software Craftsmanship | Copyright © 2009 Pearson Education, Inc. |
+| Concise Guide to Object-Oriented Programming | © Springer Nature Switzerland AG 2019 |
+| Design Patterns For Dummies | Copyright © 2006 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Guide to Competitive Programming | © Springer International Publishing AG, part of Springer Nature 2017 |
+| Guide to Data Structures | © Springer International Publishing AG 2017 |
+| Introduction to Algorithms - 3rd ed | © 2009 Massachusetts Institute of Technology |
+| Learning Object-Oriented Programming | Copyright © 2015 Packt Publishing |
+| Object-Oriented Analysis, Design and Implementation | © Universities Press (India) Private Ltd. 2010, 2015 |
 | Object-Oriented Software Construction |  |
-| Object-Oriented vs Functional Programming |  |
-| Practical Analysis of Algorithms |  |
-| The Object Oriented Thought Proccess - 3rd ed |  |
-| The Object-Oriented Thought Process - 4th ed |  |
-| The Object-Oriented Thought Process - 5th ed |  |
+| Object-Oriented vs Functional Programming | Copyright © 2016 O’Reilly Media. |
+| Practical Analysis of Algorithms | © Springer International Publishing Switzerland 2014 |
+| The Object Oriented Thought Proccess - 3rd ed | Copyright © 2009 by Pearson Education |
+| The Object-Oriented Thought Process - 4th ed | Copyright © 2013 by Pearson Education, Inc. |
+| The Object-Oriented Thought Process - 5th ed | Copyright © 2019 Pearson Education, Inc. |
 
 ## Analytic Geometry and Linear Algebra
 
