@@ -244,8 +244,8 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Redes De Computadores e a Internet_ uma abordagem top-down |  |
-| Communications and Networking |  |
+| Redes De Computadores e a Internet_ uma abordagem top-down | © 2014 by Jim F. Kurose e Keith W. Ross |
+| Communications and Networking | © Springer-Verlag London 2012 |
 
 ## Computer Organization
 
