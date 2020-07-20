@@ -311,18 +311,18 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Tutorial Quartus II |  |
-| Altera DE1 User Manual |  |
-| Altera Quartus II Handbook Version 12.0 |  |
-| Altera Quartus II Handbook Version 13.0 |  |
+| Tutorial Quartus II | [Specific license][tutorial-quartus] |
+| Altera DE1 User Manual | Copyright © 2012 Altera Corporation |
+| Altera Quartus II Handbook Version 12.0 | © 2012 Altera Corporation |
+| Altera Quartus II Handbook Version 13.0 | © 2013 Altera Corporation |
 
 #### VHDL
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Free Range VHDL |  |
-| VHDL Generate |  |
-| VHDL Port Map |  |
+| Free Range VHDL | [CC BY-SA 3.0][CC BY-SA 3.0] |
+| VHDL Generate | Copyright © 2001, Roger Traylor |
+| VHDL Port Map | [vhdl-whiz][vhdl-whiz] |
 | VHDL Quick Reference Card |  |
 | VHDL Testbenches |  |
 
@@ -930,10 +930,14 @@
 | What is Computer Science |  |
 
 
-[rfbl]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a1d823f7049f093d142f3095c5f33108304cf7a7/read-first-buy-later.md
-[postgreqsl-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
-[CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
-[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
-[CC BY-NC 3.0]: https://creativecommons.org/licenses/by-nc/3.0/deed.en_GB
 [CC BY 3.0]: https://creativecommons.org/licenses/by/3.0/
 [CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
+[CC BY-NC 3.0]: https://creativecommons.org/licenses/by-nc/3.0/deed.en_GB
+[CC BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/
+[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
+[CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+[postgreqsl-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
+[rfbl]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a1d823f7049f093d142f3095c5f33108304cf7a7/read-first-buy-later.md
+[tutorial-quartus]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/43b4c5f9ce12aa20f4cf864ca3ed7e1c498fa773/tutorial-quartus.md
+[vhdl-whiz]: https://vhdlwhiz.com/terms-of-service/
