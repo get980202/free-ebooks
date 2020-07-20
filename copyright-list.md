@@ -88,7 +88,7 @@
 | Scala for Machine Learning | Copyright © 2014 Packt Publishing |
 | Statistical Methods for Machine Learning | © Copyright 2019 Jason Brownlee |
 | Statistics for Machine Learning | Copyright © 2017 Packt Publishing |
-| The Hundred-Page Machine Learning Book | [Read first, buy later](read-first-buy-later.md) |
+| The Hundred-Page Machine Learning Book | [Read first, buy later][rfbl] |
 | Thoughtful Machine Learning with Python | Copyright © 2017 Matthew Kirk |
 | Understanding Machine Learning_ From Theory to Algorithms | © Shai Shalev-Shwartz and Shai Ben-David 2014 |
 | XGBoost with Python | © Copyright 2018 Jason Brownlee |
@@ -97,54 +97,53 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Como funciona o Deep Learning |  |
-| Advanced Applied Deep Learning |  |
-| Advanced Deep Learning with Keras |  |
-| Advanced Machine Learning with Python |  |
-| Applied Deep Learning |  |
-| Better deep learning |  |
-| Deep Learning Cookbook |  |
-| Deep Learning Essentials |  |
-| Deep Learning For Dummies |  |
-| Deep Learning Illustrated |  |
-| Deep Learning for Computer Vision with Python - ImageNet Bundle |  |
-| Deep Learning for Computer Vision with Python - Practitioner Bundle |  |
-| Deep Learning for Computer Vision with Python - Starter Bundle |  |
-| Deep Learning for Computer Vision |  |
-| Deep Learning for Vision Systems |  |
-| Deep Learning with JavaScript |  |
-| Deep Learning with PyTorch - Packt |  |
-| Deep Learning with PyTorch_ Essential Excerpts - Manning |  |
-| Deep Learning with Python - Apress |  |
-| Deep Learning with Python - Manning |  |
-| Deep Learning with Python |  |
-| Deep Learning |  |
-| Deep Learning_ A Practitioner's Approach |  |
-| Deep Learning_ Fundamentals, Theory and Applications |  |
-| Deep learning for Time Series Forecasting |  |
-| Dive into Deep Learning |  |
-| Fundamentals of Deep Learning |  |
-| Grokking Deep Learning |  |
-| Hands-On Java Deep Learning for Computer Vision |  |
-| Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow |  |
-| Introduction to Deep Learning |  |
-| Introduction to Deep Learning_ From Logical Calculus to Artificial Intelligence |  |
-| Java Deep Learning Essentials |  |
-| Learn Keras for Deep Neural Networks |  |
-| Learning Tensorflow |  |
+| Como funciona o Deep Learning | [CC BY-NC-SA 4.0][CC BY-NC-SA 4.0] |
+| Advanced Applied Deep Learning | Copyright © 2019 by Umberto Michelucci |
+| Advanced Deep Learning with Keras | Copyright © 2018 Packt Publishing |
+| Advanced Machine Learning with Python | Copyright © 2016 Packt Publishing |
+| Applied Deep Learning | Copyright © 2018 by Umberto Michelucci |
+| Better deep learning | © Copyright 2019 Jason Brownlee |
+| Deep Learning Cookbook | Copyright © 2018 Douwe Osinga |
+| Deep Learning Essentials | Copyright © 2018 Packt Publishing |
+| Deep Learning For Dummies | Copyright © 2019 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Deep Learning for Computer Vision with Python - ImageNet Bundle | Copyright © 2017 Adrian Rosebrock, PyImageSearch.com |
+| Deep Learning for Computer Vision with Python - Practitioner Bundle | Copyright © 2017 Adrian Rosebrock, PyImageSearch.com |
+| Deep Learning for Computer Vision with Python - Starter Bundle | Copyright © 2017 Adrian Rosebrock, PyImageSearch.com |
+| Deep Learning for Computer Vision | Copyright © 2018 Packt Publishing |
+| Deep Learning for Vision Systems | Copyright 2019 Manning Publications |
+| Deep Learning with JavaScript | © 2020 by Manning Publications Co. |
+| Deep Learning with PyTorch - Packt | Copyright © 2018 Packt Publishing |
+| Deep Learning with PyTorch_ Essential Excerpts - Manning | Copyright 2019 Manning Publications |
+| Deep Learning with Python - Apress | Copyright © 2017 by Nikhil Ketkar |
+| Deep Learning with Python - Machine Learning Mastery | © Copyright 2016 Jason Brownlee |
+| Deep Learning with Python - Manning | © 2018 by Manning Publications Co. |
+| Deep Learning | © 2016 Massachusetts Institute of Technology |
+| Deep Learning_ A Practitioner's Approach | Copyright © 2017 Josh Patterson and Adam Gibson |
+| Deep Learning_ Fundamentals, Theory and Applications | © Springer Nature Switzerland AG 2019 |
+| Deep learning for Time Series Forecasting | © Copyright 2019 Jason Brownlee |
+| Dive into Deep Learning | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Fundamentals of Deep Learning | Copyright © 2017 Nikhil Buduma |
+| Grokking Deep Learning | Copyright 2017 Manning Publications |
+| Hands-On Java Deep Learning for Computer Vision | Copyright © 2019 Packt Publishing |
+| Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow | Copyright © 2019 Aurélien Géron |
+| Introduction to Deep Learning | © 2018 The Massachusetts Institute of Technology |
+| Introduction to Deep Learning_ From Logical Calculus to Artificial Intelligence | © Springer International Publishing AG, part of Springer Nature 2018 |
+| Java Deep Learning Essentials | Copyright © 2016 Packt Publishing |
+| Learn Keras for Deep Neural Networks | Copyright © 2019 by Jojo Moolayil |
+| Learning Tensorflow | Copyright © 2017 Tom Hope, Itay Lieder, and Yehezkel S. Resheff |
 | Make Your Own Neural Network (1) |  |
 | Make Your Own Neural Network (2) |  |
-| Mastering Machine Learning with scikit-learn |  |
-| Neural Networks and Deep Learning |  |
-| Neural Networks and Deep Learning_ A Textbook |  |
-| Neural Networks_ A Visual Introduction for Beginners |  |
-| Practical Computer Vision Applications Using Deep Learning with CNNs |  |
-| Pro Deep Learning with TensorFlow |  |
-| Python Deep Learning - 1st ed |  |
-| Python Deep Learning - 2nd ed |  |
-| Recent Trends in Artificial Neural Networks |  |
-| Tensorflow for Deep Learning |  |
-| Visual Object Tracking with Deep Neural Networks |  |
+| Mastering Machine Learning with scikit-learn | Copyright © 2014 Packt Publishing |
+| Neural Networks and Deep Learning | [CC BY-NC 3.0][CC BY-NC 3.0] |
+| Neural Networks and Deep Learning_ A Textbook | © Springer International Publishing AG, part of Springer Nature 2018 |
+| Neural Networks_ A Visual Introduction for Beginners | © 2017 Blue Windmill Media |
+| Practical Computer Vision Applications Using Deep Learning with CNNs | Copyright © 2018 by Ahmed Fawzy Gad |
+| Pro Deep Learning with TensorFlow | Copyright © 2017 by Santanu Pattanayak |
+| Python Deep Learning - 1st ed | Copyright © 2017 Packt Publishing |
+| Python Deep Learning - 2nd ed | Copyright © 2019 Packt Publishing |
+| Recent Trends in Artificial Neural Networks | [CC BY 3.0][CC BY 3.0] |
+| Tensorflow for Deep Learning | Copyright © 2018 Reza Zadeh, Bharath Ramsundar |
+| Visual Object Tracking with Deep Neural Networks | [CC BY 3.0][CC BY 3.0] |
 
 ## Basic Math
 
@@ -929,3 +928,10 @@
 | Pervasive Computing |  |
 | Principles of Data Mining |  |
 | What is Computer Science |  |
+
+
+[rfbl]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a1d823f7049f093d142f3095c5f33108304cf7a7/read-first-buy-later.md
+[CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
+[CC BY-NC 3.0]: https://creativecommons.org/licenses/by-nc/3.0/deed.en_GB
+[CC BY 3.0]: https://creativecommons.org/licenses/by/3.0/
