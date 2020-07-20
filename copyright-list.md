@@ -251,12 +251,12 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Arquitetura de Computadores_ Uma Abordagem Quantitativa |  |
-| Arquitetura e Organizacao de Computadores |  |
+| Arquitetura de Computadores_ Uma Abordagem Quantitativa | © 2014, Elsevier Editora Ltda. |
+| Arquitetura e Organizacao de Computadores | © 2010 by Pearson Education do Brasil |
 | Introducao a Organizacao de Computadores |  |
-| Organizacao Estruturada de Computadores |  |
-| Computer Organization and Design |  |
-| Structured Computer Organization |  |
+| Organizacao Estruturada de Computadores | © 2013 by Andrew S. Tanenbaum e Todd Austin |
+| Computer Organization and Design | Copyright © 2014 Elsevier Inc. |
+| Structured Computer Organization | Copyright © 2013, 2006, 1999 Pearson Education, Inc., publishing as Prentice Hall |
 
 #### RARS
 
@@ -268,11 +268,11 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Guia pratico RISC-V_ Atlas de uma Arquitetura Aberta |  |
-| RISC-V_ Cartao de Referencia Aberto |  |
-| Computer Organization and Design_ RISC-V Edition |  |
-| Introduction to RISC Assembly Language Programming |  |
-| The RISC-V Instruction Set Manual vol. 1_ User-Level ISA |  |
+| Guia pratico RISC-V_ Atlas de uma Arquitetura Aberta | Copyright 2017 Strawberry Canyon LLC |
+| RISC-V_ Cartao de Referencia Aberto | Copyright 2017 Strawberry Canyon LLC |
+| Computer Organization and Design_ RISC-V Edition | Copyright © 2018 Elsevier Inc. |
+| Introduction to RISC Assembly Language Programming | © Addison Wesley Longman Limited 1999 |
+| The RISC-V Instruction Set Manual vol. 1_ User-Level ISA | [CC BY 4.0][CC BY 4.0] |
 
 ## Computer Vision
 
@@ -935,3 +935,4 @@
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 [CC BY-NC 3.0]: https://creativecommons.org/licenses/by-nc/3.0/deed.en_GB
 [CC BY 3.0]: https://creativecommons.org/licenses/by/3.0/
+[CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
