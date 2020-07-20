@@ -335,8 +335,8 @@
 | Indução Matematica |  |
 | Infinitos, Continuo e Escolha_ Teoria dos Conjuntos |  |
 | Matematica Discreta e Suas Aplicacoes |  |
-| Discrete Mathematics and Its Applications |  |
-| Fundamentals of Discrete Math for Computer Science |  |
+| Discrete Mathematics and Its Applications | Copyright © 2007 by Kenneth H. Rosen |
+| Fundamentals of Discrete Math for Computer Science | © Springer-Verlag London 2013 |
 
 ## Formal Language and Automata
 
