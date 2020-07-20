@@ -149,23 +149,23 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Matematica_ Contexto e Aplicacoes - vol. 1 |  |
-| Matematica_ Contexto e Aplicacoes - vol. 2 |  |
-| Matematica_ Contexto e Aplicacoes - vol. 3 |  |
-| Algebra I Essentials For Dummies |  |
-| Algebra I For Dummies |  |
-| Algebra I Workbook for Dummies |  |
-| Algebra II Essentials For Dummies |  |
-| Algebra II For Dummies |  |
-| Algebra II Workbook For Dummies |  |
-| Basic Math and Pre-Algebra For Dummies |  |
-| Basic Math and Pre-Algebra Workbook For Dummies |  |
-| Geometry for Dummies |  |
-| Mathematics in Computing |  |
-| Pre-Calculus 1001 Practice Problems For Dummies |  |
-| Pre-Calculus Workbook for Dummies |  |
-| Sets, Logic and Maths for Computing |  |
-| Trigonometry Workbook For Dummies |  |
+| Matematica_ Contexto e Aplicacoes - vol. 1 | Livro didático |
+| Matematica_ Contexto e Aplicacoes - vol. 2 | Livro didático |
+| Matematica_ Contexto e Aplicacoes - vol. 3 | Livro didático |
+| Algebra I Essentials For Dummies | Copyright © 2010 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Algebra I For Dummies | Copyright © 2010 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Algebra I Workbook for Dummies | Copyright © 2011 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Algebra II Essentials For Dummies | Copyright © 2010 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Algebra II For Dummies | Copyright © 2006 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Algebra II Workbook For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Basic Math and Pre-Algebra For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Basic Math and Pre-Algebra Workbook For Dummies | Copyright © 2008 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Geometry for Dummies | Copyright © 2016 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Mathematics in Computing | © Springer Nature Switzerland AG 2020 |
+| Pre-Calculus 1001 Practice Problems For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Pre-Calculus Workbook for Dummies | Copyright © 2009 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Sets, Logic and Maths for Computing | © Springer-Verlag London Limited 2008, 2012 |
+| Trigonometry Workbook For Dummies | Copyright © 2005 by Wiley Publishing, Inc., Indianapolis, Indiana |
 
 ## C
 
