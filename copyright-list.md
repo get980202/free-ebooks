@@ -467,13 +467,13 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Fundamentos de sistemas operacionais |  |
-| Sistemas Operacionais Modernos |  |
-| Sistemas Operacionais_ Projeto e Implementacao |  |
-| Introduction to Operating System Design and Implementation |  |
-| Modern Operating Systems |  |
-| Operating System Concepts |  |
-| Operating Systems_ Design and Implementation |  |
+| Fundamentos de sistemas operacionais | Copyright © 2015 by LTC - Livros Técnicos e Científicos Editora Ltda. |
+| Sistemas Operacionais Modernos | © 2016 by Pearson Education do Brasil Ltda. |
+| Sistemas Operacionais_ Projeto e Implementacao | A edição em língua portuguesa desta obra é publicada por Bookman Companhia Editora Ltda, uma divisão da Artmed Editora SA, Copyright © 2008 |
+| Introduction to Operating System Design and Implementation | © Springer-Verlag London Limited 2007 |
+| Modern Operating Systems | Copyright © 2015, 2008 by Pearson Education, Inc., Upper Saddle River, New Jersey, 07458, Pearson Prentice-Hall |
+| Operating System Concepts | Copyright © 2018, 2013, 2012, 2008 John Wiley & Sons, Inc. |
+| Operating Systems_ Design and Implementation | © 2006, 1997, 1987 by Pearson Education, Inc. |
 
 ## Probability and Statistics
 
