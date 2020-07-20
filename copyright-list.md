@@ -349,17 +349,17 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Controlando versoes com Git e GitHub |  |
+| Controlando versoes com Git e GitHub | © Casa do Código |
 | GitHub_ Folha de Dicas Git |  |
-| Git Essentials |  |
+| Git Essentials | Copyright © 2015 Packt Publishing |
 | Git cheatsheet v. 1 |  |
 | Git cheatsheet v. 2 |  |
-| Git for Teams |  |
-| Github Essentials |  |
+| Git for Teams | Copyright © 2015 Emma Jane Hogbin Westby |
+| Github Essentials | Copyright © 2015 Packt Publishing |
 | Markdown cheatsheet |  |
-| Mastering Git |  |
-| Pro Git |  |
-| Version Control with Git |  |
+| Mastering Git | Copyright © 2016 Packt Publishing |
+| Pro Git | [CC BY-NC-SA 3.0][CC BY-NC-SA 3.0] |
+| Version Control with Git | Copyright © 2012 Jon Loeliger |
 
 ## Graph Theory
 
@@ -935,6 +935,7 @@
 [CC BY-NC 3.0]: https://creativecommons.org/licenses/by-nc/3.0/deed.en_GB
 [CC BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
+[CC BY-NC-SA 3.0]: https://creativecommons.org/licenses/by-nc-sa/3.0/
 [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 [postgreqsl-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
