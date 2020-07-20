@@ -433,36 +433,35 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Comecando com o Linux_ Comandos, servicos e administracao |  |
-| A Practical Guide to Linux Commands, Editors, and Shell Programming |  |
-| Advanced Bash-Scripting Guide |  |
-| BASH Guide |  |
-| Bash Cookbook |  |
-| Bash Guide for Beginners |  |
-| Bash Pocket Reference |  |
-| Classic Shell Scripting |  |
-| Essential Linux Toolkit |  |
-| How Linux Works_ What Every Superuser Should Know |  |
-| Introduction to Linux |  |
-| Linux All-in-One For Dummies |  |
-| Linux Basics for Hackers |  |
-| Linux Bible |  |
-| Linux Command Line and Shell Scripting Bible |  |
-| Linux Dictionary |  |
-| Linux Filesystem Hierarchy |  |
-| Linux For Dummies |  |
-| Linux Mint Essentials |  |
-| Linux Phrasebook |  |
-| Linux Pocket Guide |  |
-| Linux Shell Scripting Cookbook |  |
-| Linux Shell Scripting Essentials |  |
-| Linux Utilities Cookbook |  |
-| Linux for Developers_ Jumpstart Your Linux Programming Skills |  |
-| Linux in a Nutshell |  |
-| Mastering Linux Shell Scripting |  |
-| Mastering Linux |  |
-| Ten Steps to Linux Survival |  |
-| The Linux Command Line |  |
+| Comecando com o Linux_ Comandos, servicos e administracao | © Casa do Código |
+| A Practical Guide to Linux Commands, Editors, and Shell Programming | Copyright © 2018 Mark G. Sobell |
+| Advanced Bash-Scripting Guide | Public Domain |
+| Bash Cookbook | Copyright © 2018 Carl Albing and JP Vossen |
+| Bash Guide for Beginners | [Special license][garrels] |
+| Bash Pocket Reference | Copyright © 2016 Arnold Robbins |
+| Classic Shell Scripting | Copyright © 2005 O’Reilly Media, Inc. |
+| Essential Linux Toolkit | © 2019 by LifeSavvy Media |
+| How Linux Works_ What Every Superuser Should Know | Copyright © 2015 by Brian Ward |
+| Introduction to Linux | [Special license][garrels] |
+| Linux All-in-One For Dummies | Copyright © 2010 by Wiley Publishing, Inc. |
+| Linux Basics for Hackers | Copyright © 2019 by OccupyTheWeb |
+| Linux Bible | Copyright © 2015 by John Wiley & Sons, Inc., Indianapolis, Indiana |
+| Linux Command Line and Shell Scripting Bible | Copyright © 2015 by John Wiley & Sons, Inc., Indianapolis, Indiana |
+| Linux Dictionary | [GNU FDL 1.2][GNU FDL 1.2] |
+| Linux Filesystem Hierarchy | [GNU FDL 1.2][GNU FDL 1.2] |
+| Linux For Dummies | Copyright © 2009 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Linux Mint Essentials | Copyright © 2014 Packt Publishing |
+| Linux Phrasebook | Copyright © 2016 by Pearson Education, Inc. |
+| Linux Pocket Guide | Copyright © 2012 Daniel Barrett |
+| Linux Shell Scripting Cookbook | Copyright © 2013 Packt Publishing |
+| Linux Shell Scripting Essentials | Copyright © 2015 Packt Publishing |
+| Linux Utilities Cookbook | Copyright © 2013 Packt Publishing |
+| Linux for Developers_ Jumpstart Your Linux Programming Skills | Copyright © 2017 Pearson Education, Inc. |
+| Linux in a Nutshell | Copyright © 2009 Ellen Siever, Stephen Figgins, and Robert Love |
+| Mastering Linux Shell Scripting | Copyright © 2015 Packt Publishing |
+| Mastering Linux | © 2011 by Taylor and Francis Group, LLC |
+| Ten Steps to Linux Survival | Copyright © 2016 O’Reilly Media, Inc. |
+| The Linux Command Line | [CC BY-NC-ND 3.0][CC BY-NC-ND 3.0] |
 
 ## Operating Systems
 
@@ -935,9 +934,13 @@
 [CC BY-NC 3.0]: https://creativecommons.org/licenses/by-nc/3.0/deed.en_GB
 [CC BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
+[CC BY-NC-ND 3.0]: https://creativecommons.org/licenses/by-nc-nd/3.0/
 [CC BY-NC-SA 3.0]: https://creativecommons.org/licenses/by-nc-sa/3.0/
 [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+[GNU FDL 1.2]: https://www.gnu.org/licenses/old-licenses/fdl-1.2.html
+
+[garrels]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/846e7af631fa9c3b134ef7eb01585f52f2443d2c/garrels.md
 [k19]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/449b9ad1bc04bdd140cc9b0c3c1d5369b9d6d4a7/k19.md
 [postgreqsl-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
 [rfbl]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a1d823f7049f093d142f3095c5f33108304cf7a7/read-first-buy-later.md
