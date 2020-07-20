@@ -1,7 +1,7 @@
 
 ## Algorithms and Programming
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Codigo Limpo_ Habilidades e Praticas do Agile Software | Copyright © 2009 Pearson Education, Inc. |
 | Logica de programacao_ Crie seus primeiros programas usando Javascript e HTML |  |
@@ -15,7 +15,7 @@
 | Learning Object-Oriented Programming | Copyright © 2015 Packt Publishing |
 | Object-Oriented Analysis, Design and Implementation | © Universities Press (India) Private Ltd. 2010, 2015 |
 | Object-Oriented Software Construction |  |
-| Object-Oriented vs Functional Programming | Copyright © 2016 O’Reilly Media. |
+| Object-Oriented vs Functional Programming | Copyright © 2016 O’Reilly Media |
 | Practical Analysis of Algorithms | © Springer International Publishing Switzerland 2014 |
 | The Object Oriented Thought Proccess - 3rd ed | Copyright © 2009 by Pearson Education |
 | The Object-Oriented Thought Process - 4th ed | Copyright © 2013 by Pearson Education, Inc. |
@@ -23,7 +23,7 @@
 
 ## Analytic Geometry and Linear Algebra
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Algebra Linear | Copyright © 1987 da Editora McGraw-Hill, Ltda. |
 | Apostila de Algebra Linear |  |
@@ -34,7 +34,7 @@
 
 ## Artificial Intelligence
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Artificial Intelligence By Example | Copyright © 2018 Packt Publishing |
 | Artificial Intelligence for Dummies | Copyright © 2018 by John Wiley & Sons, Inc., Hoboken, New Jersey |
@@ -44,59 +44,58 @@
 
 #### Machine Learning
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
-| Advanced Machine Learning with Python |  |
-| Agile Machine Learning |  |
-| An Introduction to Machine Learning |  |
-| Basics for Linear Algebra for Machine Learning |  |
-| Data Science Algorithms in a Week |  |
-| Getting Shit Done with PyTorch_ Solve Real-World Machine Learning Problems |  |
-| Getting Started with TensorFlow |  |
-| Hands-On Machine Learning with Scikit-Learn and TensorFlow |  |
-| Introduction to Machine Learning with Python_ A Guide for Data Scientists |  |
-| Introduction to Machine Learning |  |
-| Learning scikit-learn_ Machine Learning in Python |  |
-| Machine Learning Algorithms |  |
-| Machine Learning For Dummies |  |
-| Machine Learning Mastery With Python |  |
-| Machine Learning Refined |  |
-| Machine Learning for Audio, Image and Video Analysis |  |
-| Machine Learning for Dummies (IBM Limited Edition) |  |
-| Machine Learning for Hackers |  |
-| Machine Learning for Human Beings |  |
-| Machine Learning in Action |  |
-| Machine Learning in Java |  |
-| Machine Learning with Microsoft Technologies |  |
-| Machine Learning with Python Cookbook |  |
-| Machine Learning with R |  |
-| Machine Learning with TensorFlow |  |
-| Machine Learning |  |
-| Machine Learning_  An Algorithmic Perspective |  |
-| Machine Learning_ A Bayesian and Optimization Perspective |  |
-| Master Machine Learning Algorithms |  |
-| Mastering Machine Learning with Python in Six Steps |  |
-| Mastering TensorFlow 1.x_ Advanced machine learning and deep learning concepts using TensorFlow 1.x and Keras |  |
-| Practical Machine Learning and Image Processing |  |
-| Practical Machine Learning with Python |  |
-| Pro Machine Learning Algorithms |  |
-| Python Machine Learning - Packt |  |
-| Python Machine Learning - Wiley |  |
-| Python Machine Learning Case Studies |  |
-| Python Machine Learning |  |
-| Python for Probability, Statistics, and Machine Learning |  |
-| Real-World Machine Learning |  |
-| Scala for Machine Learning |  |
-| Statistical Methods for Machine Learning |  |
-| Statistics for Machine Learning |  |
-| The Hundred-Page Machine Learning Book |  |
-| Thoughtful Machine Learning with Python |  |
-| Understanding Machine Learning_ From Theory to Algorithms |  |
-| XGBoost with Python |  |
+| Advanced Machine Learning with Python | Copyright © 2016 Packt Publishing |
+| Agile Machine Learning | Copyright © 2019 by Eric Carter, Matthew Hurst |
+| An Introduction to Machine Learning | © Springer International Publishing Switzerland 2015 |
+| Basics for Linear Algebra for Machine Learning | © Copyright 2018 Jason Brownlee |
+| Data Science Algorithms in a Week | Copyright © 2017 Packt Publishing |
+| Getting Shit Done with PyTorch_ Solve Real-World Machine Learning Problems | © 2020 Venelin Valkov |
+| Getting Started with TensorFlow | Copyright © 2016 Packt Publishing |
+| Hands-On Machine Learning with Scikit-Learn and TensorFlow | Copyright © 2017 Aurélien Géron |
+| Introduction to Machine Learning with Python_ A Guide for Data Scientists | Copyright © 2017 Sarah Guido, Andreas Müller |
+| Introduction to Machine Learning | © 2010 Massachusetts Institute of Technology |
+| Learning scikit-learn_ Machine Learning in Python | Copyright © 2013 Packt Publishing |
+| Machine Learning Algorithms | Copyright © 2017 Packt Publishing |
+| Machine Learning Mastery With Python | © Copyright 2016 Jason Brownlee |
+| Machine Learning Refined | © Cambridge University Press 2016 |
+| Machine Learning for Audio, Image and Video Analysis | © Springer-Verlag London 2015 |
+| Machine Learning for Dummies | Copyright © 2016 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Machine Learning for Dummies (IBM Limited Edition) | Copyright © 2018 by John Wiley & Sons, Inc. |
+| Machine Learning for Hackers | Copyright © 2012 Drew Conway and John Myles White |
+| Machine Learning for Human Beings | © Zenva Pty Ltd 2018 |
+| Machine Learning in Action | © 2012 by Manning Publications Co. |
+| Machine Learning in Java | Copyright © 2016 Packt Publishing |
+| Machine Learning with Microsoft Technologies | Copyright © 2019 by Leila Etaati |
+| Machine Learning with Python Cookbook | Copyright © 2018 Chris Albon |
+| Machine Learning with R | Copyright © 2015 Packt Publishing |
+| Machine Learning with TensorFlow | Copyright 2017 Manning Publications |
+| Machine Learning | Copyright © 2015 by John Wiley & Sons, Inc., Indianapolis, Indiana |
+| Machine Learning_  An Algorithmic Perspective | © 2015 by Taylor & Francis Group, LLC |
+| Machine Learning_ A Bayesian and Optimization Perspective | Copyright © 2015 Elsevier Ltd. |
+| Master Machine Learning Algorithms | © Copyright 2016 Jason Brownlee |
+| Mastering Machine Learning with Python in Six Steps | Copyright © 2019 by Manohar Swamynathan |
+| Mastering TensorFlow 1.x_ Advanced machine learning and deep learning concepts using TensorFlow 1.x and Keras | Copyright © 2018 Packt Publishing |
+| Practical Machine Learning and Image Processing | Copyright © 2019 by Himanshu Singh |
+| Practical Machine Learning with Python | Copyright © 2018 by Dipanjan Sarkar, Raghav Bali and Tushar Sharma |
+| Pro Machine Learning Algorithms | Copyright © 2018 by V Kishore Ayyadevara |
+| Python Machine Learning - Packt | Copyright © 2017 Packt Publishing |
+| Python Machine Learning - Wiley | Copyright © 2019 by John Wiley & Sons, Inc., Indianapolis, Indiana |
+| Python Machine Learning Case Studies | Copyright © 2017 by Danish Haroon |
+| Python for Probability, Statistics, and Machine Learning | © Springer Nature Switzerland AG 2019 |
+| Real-World Machine Learning | © 2017 by Manning Publications Co. |
+| Scala for Machine Learning | Copyright © 2014 Packt Publishing |
+| Statistical Methods for Machine Learning | © Copyright 2019 Jason Brownlee |
+| Statistics for Machine Learning | Copyright © 2017 Packt Publishing |
+| The Hundred-Page Machine Learning Book | [Read first, buy later](read-first-buy-later.md) |
+| Thoughtful Machine Learning with Python | Copyright © 2017 Matthew Kirk |
+| Understanding Machine Learning_ From Theory to Algorithms | © Shai Shalev-Shwartz and Shai Ben-David 2014 |
+| XGBoost with Python | © Copyright 2018 Jason Brownlee |
 
 ###### Deep Learning
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Como funciona o Deep Learning |  |
 | Advanced Applied Deep Learning |  |
@@ -149,7 +148,7 @@
 
 ## Basic Math
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Matematica_ Contexto e Aplicacoes - vol. 1 |  |
 | Matematica_ Contexto e Aplicacoes - vol. 2 |  |
@@ -171,7 +170,7 @@
 
 ## C
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Introducao a programação em C_ Os primeiros passos de um desenvolvedor |  |
 | Linguagem C_ Descomplicada |  |
@@ -182,7 +181,7 @@
 
 ## C++
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Beginning C++ Game Programming |  |
 | Beginning C++ Programming |  |
@@ -205,7 +204,7 @@
 
 #### Books
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Calculo A - Flemming |  |
 | Cálculo B - Flemming |  |
@@ -226,7 +225,7 @@
 
 #### Tables
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Tabela 0 |  |
 | Tabela 1 |  |
@@ -237,21 +236,21 @@
 
 ## Computer Graphics
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Introduction to Computer Graphics |  |
 | Mathematics for Computer Graphics |  |
 
 ## Computer Networks
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Redes De Computadores e a Internet_ uma abordagem top-down |  |
 | Communications and Networking |  |
 
 ## Computer Organization
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Arquitetura de Computadores_ Uma Abordagem Quantitativa |  |
 | Arquitetura e Organizacao de Computadores |  |
@@ -262,13 +261,13 @@
 
 #### RARS
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | RARS Environment Calls |  |
 
 #### RISC-V
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Guia pratico RISC-V_ Atlas de uma Arquitetura Aberta |  |
 | RISC-V_ Cartao de Referencia Aberto |  |
@@ -278,7 +277,7 @@
 
 ## Computer Vision
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Concise Computer Vision |  |
 | Introduction to Video and Image Processing |  |
@@ -293,7 +292,7 @@
 
 ## Database
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Armazenando dados com Redis |  |
 | MongoDB_ Construa novas aplicacoes com novas tecnologias |  |
@@ -311,7 +310,7 @@
 
 #### Altera
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Tutorial Quartus II |  |
 | Altera DE1 User Manual |  |
@@ -320,7 +319,7 @@
 
 #### VHDL
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Free Range VHDL |  |
 | VHDL Generate |  |
@@ -330,7 +329,7 @@
 
 ## Discrete Mathematics
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Aprendendo Matematica Discreta com Exercicios |  |
 | Conjuntos Infinitos |  |
@@ -342,14 +341,14 @@
 
 ## Formal Language and Automata
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Linguagens Formais e Automatos |  |
 | A Concise Introduction to Languages and Machines |  |
 
 ## Git
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Controlando versoes com Git e GitHub |  |
 | GitHub_ Folha de Dicas Git |  |
@@ -365,13 +364,13 @@
 
 ## Graph Theory
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Basic Graph Theory |  |
 
 ## Internet of Things
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Creating Functional Teams for the IoT |  |
 | Governing the IoT |  |
@@ -380,7 +379,7 @@
 
 ## Java
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Aplicacoes Java para a web com JSF e JPA |  |
 | Apostila Java e POO |  |
@@ -423,7 +422,7 @@
 
 ## LaTeX
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Apostila de LaTeX |  |
 | Curso LaTeX |  |
@@ -433,7 +432,7 @@
 
 ## Linux
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Comecando com o Linux_ Comandos, servicos e administracao |  |
 | A Practical Guide to Linux Commands, Editors, and Shell Programming |  |
@@ -468,7 +467,7 @@
 
 ## Operating Systems
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Fundamentos de sistemas operacionais |  |
 | Sistemas Operacionais Modernos |  |
@@ -480,7 +479,7 @@
 
 ## Probability and Statistics
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Advanced High School Statistics |  |
 | Introduction to Probability |  |
@@ -494,7 +493,7 @@
 
 ## Programming Languages
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Foundations of Programming Languages |  |
 | Introduction to the Theory of Programming Languages |  |
@@ -505,7 +504,7 @@
 
 ## Python
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Interpretador e Compilador Python |  |
 | Automate it!_ Recipes to upskill your business |  |
@@ -531,7 +530,7 @@
 
 #### Django
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Desenvolvimento Web com Python e Django |  |
 | Beginning Django CMS |  |
@@ -542,7 +541,7 @@
 
 #### Guides, tutorials, references
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Python e Orientacao a Objetos |  |
 | Python_ Escreva seus primeiros programas |  |
@@ -570,7 +569,7 @@
 
 #### Libraries
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | 20 Python Libraries You Aren’t Using (But Should) |  |
 | Beginning Game Development with Python and Pygame |  |
@@ -594,7 +593,7 @@
 
 ## Regex
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Beginning Regular Expressions |  |
 | Introducing Regular Expressions |  |
@@ -608,7 +607,7 @@
 
 ## Ruby
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Introducao a Computacao_ Da Logica aos jogos com Ruby |  |
 | Ruby on Rails_ Coloque sua aplicacao web nos trilhos |  |
@@ -616,7 +615,7 @@
 
 ## Software Engineering
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Engenharia de Software_ Uma Abordagem Profissional - Pressman |  |
 | A Concise Introduction to Software Engineering |  |
@@ -636,7 +635,7 @@
 
 #### Agile
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Agile_ Desenvolvimento de software com entregas frequentes e foco no valor de negocio |  |
 | Agile Software Engineering |  |
@@ -644,14 +643,14 @@
 
 #### DevOps
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Caixa de Ferramentas DevOps_ Um guia para construcao, administracao e arquitetura de sistemas modernos |  |
 | DevOps na pratica_ entrega de software confiavel e automatizada |  |
 
 #### Scrum
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | SCRUM 360_ Um guia completo e pratico de agilidade |  |
 | Scrum_ Gestão agil para projetos de sucesso |  |
@@ -659,26 +658,26 @@
 
 #### TDD
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Test-Driven Development_ Teste e Design no Mundo Real |  |
 
 #### UML
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | UML @ Classroom |  |
 
 #### XP
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | eXtreme Programming_ Praticas para o dia-a-dia no desenvolvimento agil de software |  |
 | Extreme Programming Explained |  |
 
 ## Web
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | A Web Mobile_ Programe para um mundo de muitos dispositivos |  |
 | Coletanea Front-End_ Uma Antologia da Comunidade Front-End Brasileira |  |
@@ -688,20 +687,20 @@
 
 #### Angular
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | AngularJS Essentials |  |
 | Expert Angular |  |
 
 #### Bootstrap
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Learning Bootstrap 4 |  |
 
 #### HTML, CSS, JS, PHP, SQL
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | CSS Eficiente_ Tecnicas e ferramentas que fazem a diferenca nos seus estilos |  |
 | Desenvolva jogos com HTML5 Canvas e JavaScript |  |
@@ -749,7 +748,7 @@
 
 #### Node.js
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Node.js_ Aplicacoes web real time com Node.js |  |
 | Learning Node |  |
@@ -762,33 +761,33 @@
 
 #### React
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | React and React Native |  |
 
 #### TypeScript
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Essential Typescript |  |
 | Mastering TypeScript |  |
 
 #### Vue.js
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Vue.js 2 Cookbook |  |
 
 ## z Other books
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | The Complete Guide to Open Source Licenses 2020 |  |
 | packtpub |  |
 
 #### (PT) Casa do Código
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Conhecendo o Adobe Photoshop CS6 |  |
 | Criando aplicacoes para o seu Windows Phone |  |
@@ -816,7 +815,7 @@
 
 #### MJV
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Business Agility_ agilidade para processos de Pesquisa e Desenvolvimento de produtos |  |
 | Business Intelligence e Design Thinking_ uma nova abordagem |  |
@@ -842,7 +841,7 @@
 
 #### Manning
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | Agile Development for Serverless Platforms |  |
 | Back to Simple CSS |  |
@@ -886,7 +885,7 @@
 
 #### O'Reilly
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | 2016 European Software Development Salary Survey |  |
 | 2016 Software Development Salary Survey |  |
@@ -914,7 +913,7 @@
 
 #### Springer
 
-| Book | Copyright |
+| Book | License/Copyright |
 |:----:|:---------:|
 | A Practical Approach to Compiler Construction |  |
 | Analysis for Computer Scientists |  |
