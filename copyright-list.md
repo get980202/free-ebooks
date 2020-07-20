@@ -479,15 +479,15 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Advanced High School Statistics |  |
-| Introduction to Probability |  |
-| Introductory Statistics with Randomization and Simulation |  |
-| OpenIntro Statistics |  |
-| Probability For Dummies |  |
-| Statistics 1001 Practice Problems For Dummies |  |
-| Statistics Essentials For Dummies |  |
-| Statistics For Dummies |  |
-| Statistics II For Dummies |  |
+| Advanced High School Statistics | [CC BY-SA 3.0][CC BY-SA 3.0] |
+| Introduction to Probability | [GNU FDL 1.3][GNU FDL 1.3] |
+| Introductory Statistics with Randomization and Simulation | [CC BY-SA 3.0][CC BY-SA 3.0] |
+| OpenIntro Statistics | [CC BY-SA 3.0][CC BY-SA 3.0] |
+| Probability For Dummies | Copyright © 2006 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Statistics 1001 Practice Problems For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Statistics Essentials For Dummies | Copyright © 2010 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Statistics For Dummies | Copyright © 2011 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Statistics II For Dummies | Copyright © 2009 by Wiley Publishing, Inc., Indianapolis, Indiana |
 
 ## Programming Languages
 
@@ -939,6 +939,7 @@
 [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 [GNU FDL 1.2]: https://www.gnu.org/licenses/old-licenses/fdl-1.2.html
+[GNU FDL 1.3]: https://www.gnu.org/licenses/fdl-1.3.html
 
 [garrels]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/846e7af631fa9c3b134ef7eb01585f52f2443d2c/garrels.md
 [k19]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/449b9ad1bc04bdd140cc9b0c3c1d5369b9d6d4a7/k19.md
