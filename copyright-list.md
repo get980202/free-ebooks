@@ -322,7 +322,7 @@
 |:----:|:---------:|
 | Free Range VHDL | [CC BY-SA 3.0][CC BY-SA 3.0] |
 | VHDL Generate | Copyright © 2001, Roger Traylor |
-| VHDL Port Map | [vhdl-whiz][vhdl-whiz] |
+| VHDL Port Map | [Special license][vhdl-whiz] |
 | VHDL Quick Reference Card |  |
 | VHDL Testbenches |  |
 
@@ -334,7 +334,7 @@
 | Conjuntos Infinitos |  |
 | Indução Matematica |  |
 | Infinitos, Continuo e Escolha_ Teoria dos Conjuntos |  |
-| Matematica Discreta e Suas Aplicacoes |  |
+| Matematica Discreta e Suas Aplicacoes | Copyright © 2007 by Kenneth H. Rosen |
 | Discrete Mathematics and Its Applications | Copyright © 2007 by Kenneth H. Rosen |
 | Fundamentals of Discrete Math for Computer Science | © Springer-Verlag London 2013 |
 
