@@ -615,21 +615,22 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Engenharia de Software_ Uma Abordagem Profissional - Pressman |  |
-| A Concise Introduction to Software Engineering |  |
-| Clean Code |  |
-| Concise Guide to Formal Methods |  |
-| Concise Guide to Software Engineering |  |
-| Concise Guide to Software Testing |  |
-| Introduction to Software Process Improvement |  |
-| Introduction to Software Quality |  |
-| Rigorous Software Development |  |
-| Soft Skills_ The software developer's life manual |  |
-| Software Architecture in Action |  |
-| Software Engineering - Sommerville |  |
-| Software Engineering_ A Practitioner's Approach - Pressman |  |
+| Codigo Limpo_ Habilidades e Praticas do Agile Software | Copyright © 2009 Pearson Education, Inc. |
+| Engenharia de Software_ Uma Abordagem Profissional - Pressman | Copyright © 2010 by The McGraw-Hill Companies, Inc. |
+| A Concise Introduction to Software Engineering | © Springer-Verlag London Limited 2008 |
+| Clean Code | Copyright © 2009 Pearson Education, Inc. |
+| Concise Guide to Formal Methods | © Springer International Publishing AG 2017 |
+| Concise Guide to Software Engineering | © Springer International Publishing AG 2017 |
+| Concise Guide to Software Testing | © Springer Nature Switzerland AG 2019 |
+| Introduction to Software Process Improvement | © Springer-Verlag London Limited 2011 |
+| Introduction to Software Quality | © Springer International Publishing Switzerland 2014 |
+| Rigorous Software Development | © Springer-Verlag London Limited 2011 |
+| Soft Skills_ The software developer's life manual | © 2015 by Manning Publications Co. |
+| Software Architecture in Action | © Springer International Publishing Switzerland 2016 |
+| Software Engineering - Sommerville | Copyright © 2011, 2006, 2005, 2001, 1996 Pearson Education, Inc., publishing as Addison-Wesley |
+| Software Engineering_ A Practitioner's Approach - Pressman | Copyright © 2010 by The McGraw-Hill Companies, Inc. |
 | Software Engineering_ theory and practice - Pfleeger |  |
-| Software Quality Assurance |  |
+| Software Quality Assurance | © Springer International Publishing AG 2017 |
 
 #### Agile
 
