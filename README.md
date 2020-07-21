@@ -24,6 +24,6 @@ Regarding commercial purposes, one should look the desired book up in the [copyr
 
 ### :trophy: Copyright/License
 
-The copyright and license information for the majority of the books is available in the [copyright-list.md][copyright-list.md] file. Some of the books, however, lack this info, for now.
+The copyright and license information for the majority of the books is available in the [copyright-list.md](copyright-list.md) file. Some of the books, however, lack this info, for now.
 
 In advance, the author of this repo states that all copyrights go to the books's authors, publishers  or respective owners. The author does not claim property or copyright of any book present in this repository.
