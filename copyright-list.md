@@ -593,15 +593,15 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Beginning Regular Expressions |  |
-| Introducing Regular Expressions |  |
-| JavaScript Regular Expressions |  |
-| Mastering Python Regular Expressions |  |
-| Mastering Regular Expressions |  |
-| Regex Quick Syntax Reference_ Understanding and Using Regular Expressions |  |
-| Regular Expression Pocket Reference_ Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET |  |
-| Regular Expressions Cookbook |  |
-| Regular Expressions_ Pocket Primer |  |
+| Beginning Regular Expressions | Copyright © 2005 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Introducing Regular Expressions | Copyright © 2012 Michael Fitzgerald |
+| JavaScript Regular Expressions | Copyright © 2015 Packt Publishing |
+| Mastering Python Regular Expressions | Copyright © 2014 Packt Publishing |
+| Mastering Regular Expressions | Copyright © 2006, 2002, 1997 O'Reilly Media, Inc. |
+| Regex Quick Syntax Reference_ Understanding and Using Regular Expressions | Copyright © 2018 by Zsolt Nagy |
+| Regular Expression Pocket Reference_ Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET | Copyright © 2007, 2003 Tony Stubblebine |
+| Regular Expressions Cookbook | Copyright © 2009 Jan Goyvaerts and Steven Levithan |
+| Regular Expressions_ Pocket Primer | Copyright © 2019 by Mercury Learning and Information LLC |
 
 ## Ruby
 
