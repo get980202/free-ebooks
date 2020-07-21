@@ -954,7 +954,7 @@
 [leanpub]: https://leanpub.com/terms#copyright-creative-commons-public-domain-disputed-content-and-related-policies
 [mjv]: https://www.mjvinnovation.com/pt-br/termos-de-uso/
 [numpy]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a7bcbf44152174417f1dfe86ddf5d6846b208820/numpy.md
-[postgreqsl-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
+[postgresql-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
 [rfbl]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a1d823f7049f093d142f3095c5f33108304cf7a7/read-first-buy-later.md
 [tutorial-quartus]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/43b4c5f9ce12aa20f4cf864ca3ed7e1c498fa773/tutorial-quartus.md
 [uff]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/fbd23f96e346312e27f27d23bb97608f6d3c6280/uff.md
