@@ -51,7 +51,7 @@
 | An Introduction to Machine Learning | © Springer International Publishing Switzerland 2015 |
 | Basics for Linear Algebra for Machine Learning | © Copyright 2018 Jason Brownlee |
 | Data Science Algorithms in a Week | Copyright © 2017 Packt Publishing |
-| Getting Shit Done with PyTorch_ Solve Real-World Machine Learning Problems | © 2020 Venelin Valkov |
+| Getting Shit Done with PyTorch_ Solve Real-World Machine Learning Problems | [Special license][leanpub] |
 | Getting Started with TensorFlow | Copyright © 2016 Packt Publishing |
 | Hands-On Machine Learning with Scikit-Learn and TensorFlow | Copyright © 2017 Aurélien Géron |
 | Introduction to Machine Learning with Python_ A Guide for Data Scientists | Copyright © 2017 Sarah Guido, Andreas Müller |
@@ -636,146 +636,146 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Agile_ Desenvolvimento de software com entregas frequentes e foco no valor de negocio |  |
-| Agile Software Engineering |  |
-| Learning Agile |  |
+| Agile_ Desenvolvimento de software com entregas frequentes e foco no valor de negocio | © Casa do Código |
+| Agile Software Engineering | © Springer-Verlag London Limited 2008 |
+| Learning Agile | Copyright © 2015 O’Reilly Media |
 
 #### DevOps
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Caixa de Ferramentas DevOps_ Um guia para construcao, administracao e arquitetura de sistemas modernos |  |
-| DevOps na pratica_ entrega de software confiavel e automatizada |  |
+| Caixa de Ferramentas DevOps_ Um guia para construcao, administracao e arquitetura de sistemas modernos | © Casa do Código |
+| DevOps na pratica_ entrega de software confiavel e automatizada | © Casa do Código |
 
 #### Scrum
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| SCRUM 360_ Um guia completo e pratico de agilidade |  |
-| Scrum_ Gestão agil para projetos de sucesso |  |
-| The Scrum Guide |  |
+| SCRUM 360_ Um guia completo e pratico de agilidade | © Casa do Código |
+| Scrum_ Gestão agil para projetos de sucesso | © Casa do Código |
+| The Scrum Guide | [CC BY-SA 4.0][CC BY-SA 4.0] |
 
 #### TDD
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Test-Driven Development_ Teste e Design no Mundo Real |  |
+| Test-Driven Development_ Teste e Design no Mundo Real | © Casa do Código |
 
 #### UML
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| UML @ Classroom |  |
+| UML @ Classroom | Copyright © 2014 by Springer International Publishing AG |
 
 #### XP
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| eXtreme Programming_ Praticas para o dia-a-dia no desenvolvimento agil de software |  |
+| eXtreme Programming_ Praticas para o dia-a-dia no desenvolvimento agil de software | © Casa do Código |
 | Extreme Programming Explained |  |
 
 ## Web
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| A Web Mobile_ Programe para um mundo de muitos dispositivos |  |
-| Coletanea Front-End_ Uma Antologia da Comunidade Front-End Brasileira |  |
-| Rest: Construa APIs inteligentes de maneira simples |  |
-| Web Design Responsivo_ Paginas adaptaveis para todos os dispositivos |  |
-| Vue.js 2 and Bootstrap 4 Web Development |  |
+| A Web Mobile_ Programe para um mundo de muitos dispositivos | © Casa do Código |
+| Coletanea Front-End_ Uma Antologia da Comunidade Front-End Brasileira | © Casa do Código |
+| Rest: Construa APIs inteligentes de maneira simples | © Casa do Código |
+| Web Design Responsivo_ Paginas adaptaveis para todos os dispositivos | © Casa do Código |
+| Vue.js 2 and Bootstrap 4 Web Development | Copyright © 2017 Packt Publishing |
 
 #### Angular
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| AngularJS Essentials |  |
-| Expert Angular |  |
+| AngularJS Essentials | Copyright © 2014 Packt Publishing |
+| Expert Angular | Copyright © 2017 Packt Publishing |
 
 #### Bootstrap
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Learning Bootstrap 4 |  |
+| Learning Bootstrap 4 | Copyright © 2016 Packt Publishing |
 
 #### HTML, CSS, JS, PHP, SQL
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| CSS Eficiente_ Tecnicas e ferramentas que fazem a diferenca nos seus estilos |  |
-| Desenvolva jogos com HTML5 Canvas e JavaScript |  |
+| CSS Eficiente_ Tecnicas e ferramentas que fazem a diferenca nos seus estilos | © Casa do Código |
+| Desenvolva jogos com HTML5 Canvas e JavaScript | © Casa do Código |
 | Desenvolvimento Web com HTML, CSS e JavaScript |  |
-| Desenvolvimento web com PHP e MySQL |  |
-| Dominando JavaScript Com jQuery |  |
-| HTML5 e CSS3_ Domine a web do futuro |  |
-| Jogos em HTML5_ Explore o mobile e fisica |  |
-| Meteor_ Criando aplicacoes web real-time com JavaScript |  |
-| PHP e Laravel_ Crie aplicacoes web como um verdadeiro artesao |  |
+| Desenvolvimento web com PHP e MySQL | © Casa do Código |
+| Dominando JavaScript Com jQuery | © Casa do Código |
+| HTML5 e CSS3_ Domine a web do futuro | © Casa do Código |
+| Jogos em HTML5_ Explore o mobile e fisica | © Casa do Código |
+| Meteor_ Criando aplicacoes web real-time com JavaScript | © Casa do Código |
+| PHP e Laravel_ Crie aplicacoes web como um verdadeiro artesao | © Casa do Código |
 | Posicionamento, dimensoes e outros elementos de HTML5 e CSS3 |  |
-| Beginning HTML5 & CSS3 For Dummies |  |
-| CSS Cookbook |  |
-| CSS Pocket Reference |  |
-| CSS3 The Missing Manual |  |
-| CSS_ The Definitive Guide |  |
-| Canvas Pocket Reference |  |
-| Coding with JavaScript For Dummies |  |
-| Eloquent Javascript |  |
-| HTML & CSS_ Design and build websites |  |
-| HTML & CSS_ The Good Parts |  |
-| HTML, CSS & JavaScript Mobile Development for Dummies |  |
-| HTML5 Pocket Reference |  |
-| HTML5 and CSS3 All-in-One For Dummies |  |
-| JavaScript Pocket Reference |  |
-| JavaScript_ Best Practice |  |
-| JavaScript_ Novice to Ninja |  |
-| JavaScript_ The Definitive Guide |  |
-| JavaScript_ The Good Parts |  |
-| Learning jQuery |  |
-| Mastering CSS |  |
-| Mastering JavaScript |  |
-| Mastering PHP 7 |  |
-| Object-Oriented JavaScript |  |
-| PHP, MySQL, JavaScript & HTML5 All-In-One For Dummies |  |
-| Practical Web Development |  |
-| Programming in HTML and PHP |  |
-| Thinking in CSS |  |
-| Thinking in HTML |  |
-| Thinking in JavaScript |  |
-| jQuery Cookbook |  |
-| jQuery For Dummies |  |
-| jQuery Pocket Reference |  |
+| Beginning HTML5 & CSS3 For Dummies | Copyright © 2013 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| CSS Cookbook | Copyright © 2010 O’Reilly Media, Inc. |
+| CSS Pocket Reference | Copyright © 2011 O’Reilly Media, Inc. |
+| CSS_ The Definitive Guide | Copyright © 2018 Eric Meyer, Estelle Weyl. |
+| CSS3_ The Missing Manual | Copyright © 2013 Sawyer McFarland Media, Inc. |
+| Canvas Pocket Reference | Copyright © 2011 David Flanagan |
+| Coding with JavaScript For Dummies | Copyright © 2015 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Eloquent Javascript | [CC BY-NC 3.0][CC BY-NC 3.0] |
+| HTML & CSS_ Design and build websites | © 2011 by John Wiley & Sons, Inc., Indianapolis, Indiana |
+| HTML & CSS_ The Good Parts | Copyright © 2010 Ben Henick |
+| HTML, CSS & JavaScript Mobile Development for Dummies | Copyright © 2011 by John Wiley & Sons, Inc. |
+| HTML5 Pocket Reference | Copyright © 2013 Littlechair, Inc. |
+| HTML5 and CSS3 All-in-One For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| JavaScript Pocket Reference | Copyright © 2012 David Flanagan |
+| JavaScript_ Best Practice | Copyright © 2018 SitePoint Pty. Ltd. |
+| JavaScript_ Novice to Ninja | Copyright © 2017 SitePoint Pty. Ltd. |
+| JavaScript_ The Definitive Guide | Copyright © 2011 David Flanagan |
+| JavaScript_ The Good Parts | Copyright © 2008 Yahoo! Inc. |
+| jQuery Cookbook | Copyright © 2010 Cody Lindley |
+| jQuery For Dummies | Copyright © 2010 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| jQuery Pocket Reference | Copyright © 2011 David Flanagan |
 | jQuery and JavaScript Phrasebook |  |
+| Learning jQuery | Copyright © 2013 Packt Publishing |
+| Mastering CSS | Copyright © 2017 Packt Publishing |
+| Mastering JavaScript | Copyright © 2016 Packt Publishing |
+| Mastering PHP 7 | Copyright © 2017 Packt Publishing |
+| Object-Oriented JavaScript | Copyright © 2013 Packt Publishing |
+| PHP, MySQL, JavaScript & HTML5 All-In-One For Dummies | Copyright © 2013 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Practical Web Development | Copyright © 2015 Packt Publishing |
+| Programming in HTML and PHP | © Springer International Publishing AG 2017 |
+| Thinking in CSS | Copyright © 2014 Packt Publishing |
+| Thinking in HTML | Copyright © 2014 Packt Publishing |
+| Thinking in JavaScript | Copyright © 2014 Packt Publishing |
 
 #### Node.js
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Node.js_ Aplicacoes web real time com Node.js |  |
-| Learning Node |  |
-| Mastering Node.js |  |
-| Node.js Blueprints |  |
-| Node.js Design Patterns |  |
-| The Node Beginner Book |  |
-| The Node Craftsman Book |  |
-| What You Need To Know About Node.js |  |
+| Node.js_ Aplicacoes web real time com Node.js | © Casa do Código |
+| Learning Node | Copyright © 2016 Shelley Powers |
+| Mastering Node.js | Copyright © 2013 Packt Publishing |
+| Node.js Blueprints | Copyright © 2014 Packt Publishing |
+| Node.js Design Patterns | Copyright © 2016 Packt Publishing |
+| The Node Beginner Book | [Special license][leanpub] |
+| The Node Craftsman Book | [Special license][leanpub] |
+| What You Need To Know About Node.js | Copyright © 2016 Packt Publishing |
 
 #### React
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| React and React Native |  |
+| React and React Native | Copyright © 2017 Packt Publishing |
 
 #### TypeScript
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Essential Typescript |  |
-| Mastering TypeScript |  |
+| Essential Typescript | [Special license][leanpub] |
+| Mastering TypeScript | Copyright © 2017 Packt Publishing |
 
 #### Vue.js
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Vue.js 2 Cookbook |  |
+| Vue.js 2 Cookbook | Copyright © 2017 Packt Publishing |
 
 ## z Other books
 
@@ -945,6 +945,7 @@
 
 [garrels]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/846e7af631fa9c3b134ef7eb01585f52f2443d2c/garrels.md
 [k19]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/449b9ad1bc04bdd140cc9b0c3c1d5369b9d6d4a7/k19.md
+[leanpub]: https://leanpub.com/terms#copyright-creative-commons-public-domain-disputed-content-and-related-policies
 [numpy]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a7bcbf44152174417f1dfe86ddf5d6846b208820/numpy.md
 [postgreqsl-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
 [rfbl]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a1d823f7049f093d142f3095c5f33108304cf7a7/read-first-buy-later.md
