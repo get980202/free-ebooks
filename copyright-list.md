@@ -782,152 +782,158 @@
 | Book | License/Copyright |
 |:----:|:---------:|
 | The Complete Guide to Open Source Licenses 2020 |  |
-| packtpub |  |
+
+## Caelum
+
+| Book | License/Copyright |
+|:----:|:---------:|
+| C# e Orientacao a Objetos |  |
+| UX e Usabilidade Aplicados em Mobile e Web |  |
 
 #### (PT) Casa do Código
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Conhecendo o Adobe Photoshop CS6 |  |
-| Criando aplicacoes para o seu Windows Phone |  |
-| Cucumber e RSpec_ Construa aplicacoes Ruby com testes e especificacoes |  |
-| Desenvolvimento de Jogos para Android_ Explore sua imaginacao com o framework Cocos2D |  |
-| Desenvolvimento de Jogos para iOS_ Explore sua imaginacao com o framework Cocos2D |  |
-| Desenvolvimento web com ASP.NET MVC |  |
-| Falando de Grails_ Altissima produtividade no desenvolvimento web |  |
-| Google Android_ crie aplicacoes para celulares e tablets |  |
-| Guia da Startup_ Como startups e empresas estabelecidas podem criar produtos web rentaveis |  |
-| Introducao a Arquitetura e Design de Software |  |
-| Introducao e boas praticas em UX Design |  |
-| Jogos Android_ Crie um game do zero usando classes nativas |  |
-| Mean_ Full stack JavaScript para aplicacoes web com MongoDB, Express, Angular e Node |  |
-| Microsoft Kinect_ Crie aplicacoes interativas |  |
-| O Programador Apaixonado_ Construindo uma carreira notavel em desenvolvimento de software |  |
-| Orientacao a Objetos e SOLID para Ninjas_ Projetando classes flexiveis |  |
-| Programando em Go_ Crie aplicacoes com a linguagem do Google |  |
-| SEO Pratico_ Seu site na primeira pagina das buscas |  |
-| SOA aplicado_ Integrando com web services e alem |  |
-| Swift_ Programe para iPhone e iPad |  |
-| Test Driven Development_ Teste e Design no Mundo Real com DotNet |  |
-| Test Driven Development_ Teste e Design no Mundo Real com PHP |  |
-| iOS_ Programe para iPhone e iPad |  |
+| Conhecendo o Adobe Photoshop CS6 | © Casa do Código |
+| Criando aplicacoes para o seu Windows Phone | © Casa do Código |
+| Cucumber e RSpec_ Construa aplicacoes Ruby com testes e especificacoes | © Casa do Código |
+| Desenvolvimento de Jogos para Android_ Explore sua imaginacao com o framework Cocos2D | © Casa do Código |
+| Desenvolvimento de Jogos para iOS_ Explore sua imaginacao com o framework Cocos2D | © Casa do Código |
+| Desenvolvimento web com ASP.NET MVC | © Casa do Código |
+| Falando de Grails_ Altissima produtividade no desenvolvimento web | © Casa do Código |
+| Google Android_ crie aplicacoes para celulares e tablets | © Casa do Código |
+| Guia da Startup_ Como startups e empresas estabelecidas podem criar produtos web rentaveis | © Casa do Código |
+| Introducao a Arquitetura e Design de Software | © Casa do Código |
+| Introducao e boas praticas em UX Design | © Casa do Código |
+| Jogos Android_ Crie um game do zero usando classes nativas | © Casa do Código |
+| Mean_ Full stack JavaScript para aplicacoes web com MongoDB, Express, Angular e Node | © Casa do Código |
+| Microsoft Kinect_ Crie aplicacoes interativas | © Casa do Código |
+| O Programador Apaixonado_ Construindo uma carreira notavel em desenvolvimento de software | © Casa do Código |
+| Orientacao a Objetos e SOLID para Ninjas_ Projetando classes flexiveis | © Casa do Código |
+| Programando em Go_ Crie aplicacoes com a linguagem do Google | © Casa do Código |
+| SEO Pratico_ Seu site na primeira pagina das buscas | © Casa do Código |
+| SOA aplicado_ Integrando com web services e alem | © Casa do Código |
+| Swift_ Programe para iPhone e iPad | © Casa do Código |
+| Test Driven Development_ Teste e Design no Mundo Real com DotNet | © Casa do Código |
+| Test Driven Development_ Teste e Design no Mundo Real com PHP | © Casa do Código |
+| iOS_ Programe para iPhone e iPad | © Casa do Código |
 
 #### MJV
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Business Agility_ agilidade para processos de Pesquisa e Desenvolvimento de produtos |  |
-| Business Intelligence e Design Thinking_ uma nova abordagem |  |
-| Data Design_ Descubra por que o Design Thinking e essencial na adocao de novas tecnologias |  |
-| Design Sprint_ testando ideias em apenas cinco dias |  |
-| Design System |  |
-| Design Thinking e Agil_ No contexto da transformacao digital |  |
-| Design driven Data Science_ Integrando Design Thinking com aprendizado de maquina para solucoes em negocios |  |
-| Design thinking_ inovacao em negocios |  |
-| DesignOps_  sua maquina de design |  |
-| DevOps_ reduza o tempo de entrega da sua TI |  |
-| Human-Centered Design_ Como aplicar os conceitos no seu negocio |  |
-| Inovacao_ cultura como drive para tecnologias emergentes |  |
-| Legal Design_ O Direito na era da Transformacao Digital |  |
-| MJV Trends 2020_ tendencias de TI |  |
-| Modelo Lean_ o que e e porque aplicar na sua empresa |  |
-| Os 7 erros que voce nao pode cometer na sua gestao de projetos |  |
-| Praticas Ageis_ times engajados, resultados acelerados e cultura de melhoria continua |  |
-| Scrum_ Guia para Implementar em Gerenciamento de Projetos |  |
-| Startups_ como elas aceleram os resultados do seu negocio |  |
-| User Experience_ Por que e como orientar seu negocio para o usuario? |  |
-| The Basics of User Experience Design |  |
+| Business Agility_ agilidade para processos de Pesquisa e Desenvolvimento de produtos | [Special license][mjv] |
+| Business Intelligence e Design Thinking_ uma nova abordagem | [Special license][mjv] |
+| Data Design_ Descubra por que o Design Thinking e essencial na adocao de novas tecnologias | [Special license][mjv] |
+| Design Sprint_ testando ideias em apenas cinco dias | [Special license][mjv] |
+| Design System | [Special license][mjv] |
+| Design Thinking e Agil_ No contexto da transformacao digital | [Special license][mjv] |
+| Design driven Data Science_ Integrando Design Thinking com aprendizado de maquina para solucoes em negocios | [Special license][mjv] |
+| Design thinking_ inovacao em negocios | [Special license][mjv] |
+| DesignOps_  sua maquina de design | [Special license][mjv] |
+| DevOps_ reduza o tempo de entrega da sua TI | [Special license][mjv] |
+| Human-Centered Design_ Como aplicar os conceitos no seu negocio | [Special license][mjv] |
+| Inovacao_ cultura como drive para tecnologias emergentes | [Special license][mjv] |
+| Legal Design_ O Direito na era da Transformacao Digital | [Special license][mjv] |
+| MJV Trends 2020_ tendencias de TI | [Special license][mjv] |
+| Modelo Lean_ o que e e porque aplicar na sua empresa | [Special license][mjv] |
+| Os 7 erros que voce nao pode cometer na sua gestao de projetos | [Special license][mjv] |
+| Praticas Ageis_ times engajados, resultados acelerados e cultura de melhoria continua | [Special license][mjv] |
+| Scrum_ Guia para Implementar em Gerenciamento de Projetos | [Special license][mjv] |
+| Startups_ como elas aceleram os resultados do seu negocio | [Special license][mjv] |
+| User Experience_ Por que e como orientar seu negocio para o usuario? | [Special license][mjv] |
+| The Basics of User Experience Design | [Special license][mjv] |
 
 #### Manning
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Agile Development for Serverless Platforms |  |
-| Back to Simple CSS |  |
-| Cloud Native Applications |  |
-| Designing Scalable JavaScript Applications |  |
-| Exploring .NET Core |  |
-| Exploring Bitcoin |  |
-| Exploring Cloud Computing |  |
-| Exploring Cross-Platform Development with Flutter, React Native, and Xamarin |  |
-| Exploring Data Science |  |
-| Exploring Data with Python |  |
-| Exploring Deep Learning for Language |  |
-| Exploring Deep Learning for Search |  |
-| Exploring Deep Learning |  |
-| Exploring Ethereum Dapps |  |
-| Exploring Haskell |  |
-| Exploring JavaScript Testing |  |
-| Exploring Kotlin Functional Programming |  |
-| Exploring Kubernetes |  |
-| Exploring Microservice Development |  |
-| Exploring Microservices |  |
-| Exploring Modern Web Development |  |
-| Exploring New Frontiers in Web Performance |  |
-| Exploring PowerShell Automation |  |
-| Exploring Python Basics |  |
-| Exploring Requirements with Specification by Example |  |
-| Exploring Serverless Applications with Node.js |  |
-| Exploring Streaming Data Analysis |  |
-| Exploring Swift |  |
-| Exploring Testing Java Microservices |  |
-| Exploring Voice-First Development |  |
-| Exploring the Data Jungle |  |
-| Going Cloud Native |  |
-| Microservices Stability |  |
-| Object Storage Across the Cloud |  |
-| Reactive Data Handling |  |
-| Safe Programming with Kotlin |  |
-| Understanding API Security |  |
-| Understanding Databases |  |
-| Using the Web to Build the IoT |  |
+| Agile Development for Serverless Platforms | © Manning Publications Co. |
+| Back to Simple CSS | © Manning Publications Co. |
+| Cloud Native Applications | © Manning Publications Co. |
+| Designing Scalable JavaScript Applications | © Manning Publications Co. |
+| Exploring .NET Core | © Manning Publications Co. |
+| Exploring Bitcoin | © Manning Publications Co. |
+| Exploring Cloud Computing | © Manning Publications Co. |
+| Exploring Cross-Platform Development with Flutter, React Native, and Xamarin | © Manning Publications Co. |
+| Exploring Data Science | © Manning Publications Co. |
+| Exploring Data with Python | © Manning Publications Co. |
+| Exploring Deep Learning for Language | © Manning Publications Co. |
+| Exploring Deep Learning for Search | © Manning Publications Co. |
+| Exploring Deep Learning | © Manning Publications Co. |
+| Exploring Ethereum Dapps | © Manning Publications Co. |
+| Exploring Haskell | © Manning Publications Co. |
+| Exploring JavaScript Testing | © Manning Publications Co. |
+| Exploring Kotlin Functional Programming | © Manning Publications Co. |
+| Exploring Kubernetes | © Manning Publications Co. |
+| Exploring Microservice Development | © Manning Publications Co. |
+| Exploring Microservices | © Manning Publications Co. |
+| Exploring Modern Web Development | © Manning Publications Co. |
+| Exploring New Frontiers in Web Performance | © Manning Publications Co. |
+| Exploring PowerShell Automation | © Manning Publications Co. |
+| Exploring Python Basics | © Manning Publications Co. |
+| Exploring Requirements with Specification by Example | © Manning Publications Co. |
+| Exploring Serverless Applications with Node.js | © Manning Publications Co. |
+| Exploring Streaming Data Analysis | © Manning Publications Co. |
+| Exploring Swift | © Manning Publications Co. |
+| Exploring Testing Java Microservices | © Manning Publications Co. |
+| Exploring Voice-First Development | © Manning Publications Co. |
+| Exploring the Data Jungle | © Manning Publications Co. |
+| Going Cloud Native | © Manning Publications Co. |
+| Microservices Stability | © Manning Publications Co. |
+| Object Storage Across the Cloud | © Manning Publications Co. |
+| Reactive Data Handling | © Manning Publications Co. |
+| Safe Programming with Kotlin | © Manning Publications Co. |
+| Understanding API Security | © Manning Publications Co. |
+| Understanding Databases | © Manning Publications Co. |
+| Using the Web to Build the IoT | © Manning Publications Co. |
 
 #### O'Reilly
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| 2016 European Software Development Salary Survey |  |
-| 2016 Software Development Salary Survey |  |
-| Ambient Computing |  |
-| An Engineering Manager’s Guide to Design Patterns |  |
-| Analyzing and Visualizing Data with F# |  |
-| Azure for Developers |  |
-| Building a Hardware Business |  |
-| Getting Started with Inner Source |  |
-| Hardware by the Numbers_ Startups |  |
-| Microservices AntiPatterns and Pitfalls |  |
-| Microservices vs. Service-Oriented Architecture |  |
-| Migrating to Cloud-Native Application Architectures |  |
-| Open By Design |  |
-| Reactive Microservices Architecture |  |
-| RxJava for Android App Development |  |
-| Software & Hardware Collide |  |
-| Software Above the Level of a Single Device |  |
-| Software Architecture Patterns |  |
-| Swift Pocket Reference |  |
-| Trends Shaping the London Tech Scene |  |
-| When Hardware Meets Software |  |
-| Why Reactive? |  |
-| Why Rust? |  |
+| 2016 European Software Development Salary Survey | Copyright © O’Reilly Media, Inc. |
+| 2016 Software Development Salary Survey | Copyright © O’Reilly Media, Inc. |
+| Ambient Computing | Copyright © O’Reilly Media, Inc. |
+| An Engineering Manager’s Guide to Design Patterns | Copyright © O’Reilly Media, Inc. |
+| Analyzing and Visualizing Data with F# | Copyright © O’Reilly Media, Inc. |
+| Azure for Developers | Copyright © O’Reilly Media, Inc. |
+| Building a Hardware Business | Copyright © O’Reilly Media, Inc. |
+| Getting Started with Inner Source | Copyright © O’Reilly Media, Inc. |
+| Hardware by the Numbers_ Startups | Copyright © O’Reilly Media, Inc. |
+| Microservices AntiPatterns and Pitfalls | Copyright © O’Reilly Media, Inc. |
+| Microservices vs. Service-Oriented Architecture | Copyright © O’Reilly Media, Inc. |
+| Migrating to Cloud-Native Application Architectures | Copyright © O’Reilly Media, Inc. |
+| Open By Design | Copyright © O’Reilly Media, Inc. |
+| Reactive Microservices Architecture | Copyright © O’Reilly Media, Inc. |
+| RxJava for Android App Development | Copyright © O’Reilly Media, Inc. |
+| Software & Hardware Collide | Copyright © O’Reilly Media, Inc. |
+| Software Above the Level of a Single Device | Copyright © O’Reilly Media, Inc. |
+| Software Architecture Patterns | Copyright © O’Reilly Media, Inc. |
+| Swift Pocket Reference | Copyright © O’Reilly Media, Inc. |
+| Trends Shaping the London Tech Scene | Copyright © O’Reilly Media, Inc. |
+| When Hardware Meets Software | Copyright © O’Reilly Media, Inc. |
+| Why Reactive? | Copyright © O’Reilly Media, Inc. |
+| Why Rust? | Copyright © O’Reilly Media, Inc. |
 
 #### Springer
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| A Practical Approach to Compiler Construction |  |
-| Analysis for Computer Scientists |  |
-| Applied Logic for Computer Scientists |  |
-| Core Data Analysis |  |
-| Elements of Computer Security |  |
-| Ethical and Secure Computing |  |
-| Introduction to Compiler Design |  |
-| Introduction to Data Science |  |
-| Introduction to the History of Computing |  |
-| Limits of Computation |  |
-| Pattern Recognition |  |
-| Pervasive Computing |  |
-| Principles of Data Mining |  |
-| What is Computer Science |  |
+| A Practical Approach to Compiler Construction | © Springer International Publishing AG 2017 |
+| Analysis for Computer Scientists | © Springer Nature Switzerland AG 2018 |
+| Applied Logic for Computer Scientists | © Springer International Publishing AG 2017 |
+| Core Data Analysis | © Springer Nature Switzerland AG 2019 |
+| Elements of Computer Security | © Springer-Verlag London Limited 2010 |
+| Ethical and Secure Computing | © Springer Nature Switzerland AG 2019 |
+| Introduction to Compiler Design | © Springer International Publishing AG 2017 |
+| Introduction to Data Science | © Springer International Publishing Switzerland 2017 |
+| Introduction to the History of Computing | © Springer International Publishing Switzerland 2016 |
+| Limits of Computation | © Springer International Publishing Switzerland 2016 |
+| Pattern Recognition | © Universities Press (India) Pvt. Ltd. |
+| Pervasive Computing | © Springer International Publishing AG 2017 |
+| Principles of Data Mining | © Springer-Verlag London Ltd. 2007, 2013, 2016 |
+| What is Computer Science | © Springer International Publishing Switzerland 2014 |
 
 
 [CC BY 3.0]: https://creativecommons.org/licenses/by/3.0/
@@ -946,6 +952,7 @@
 [garrels]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/846e7af631fa9c3b134ef7eb01585f52f2443d2c/garrels.md
 [k19]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/449b9ad1bc04bdd140cc9b0c3c1d5369b9d6d4a7/k19.md
 [leanpub]: https://leanpub.com/terms#copyright-creative-commons-public-domain-disputed-content-and-related-policies
+[mjv]: https://www.mjvinnovation.com/pt-br/termos-de-uso/
 [numpy]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a7bcbf44152174417f1dfe86ddf5d6846b208820/numpy.md
 [postgreqsl-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
 [rfbl]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a1d823f7049f093d142f3095c5f33108304cf7a7/read-first-buy-later.md
