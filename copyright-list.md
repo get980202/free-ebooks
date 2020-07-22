@@ -338,6 +338,13 @@
 | Discrete Mathematics and Its Applications | Copyright © 2007 by Kenneth H. Rosen |
 | Fundamentals of Discrete Math for Computer Science | © Springer-Verlag London 2013 |
 
+## Free Software
+
+| Book | License/Copyright |
+|:----:|:---------:|
+| Producing Open Source Software_ How to Run a Successful Free Software Project | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| The Complete Guide to Open Source Licenses 2020 |  |
+
 ## Formal Language and Automata
 
 | Book | License/Copyright |
@@ -779,10 +786,6 @@
 
 ## z Other books
 
-| Book | License/Copyright |
-|:----:|:---------:|
-| The Complete Guide to Open Source Licenses 2020 |  |
-
 #### Caelum
 
 | Book | License/Copyright |
@@ -938,13 +941,16 @@
 
 [CC BY 3.0]: https://creativecommons.org/licenses/by/3.0/
 [CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
-[CC BY-NC 3.0]: https://creativecommons.org/licenses/by-nc/3.0/deed.en_GB
-[CC BY-NC-ND 3.0]: https://creativecommons.org/licenses/by-nc-nd/3.0/
-[CC BY-NC-SA 3.0]: https://creativecommons.org/licenses/by-nc-sa/3.0/
-[CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
-[CC BY-ND 4.0]: https://creativecommons.org/licenses/by-nd/4.0/
 [CC BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
+[CC BY-ND 3.0]: https://creativecommons.org/licenses/by-nd/3.0/
+[CC BY-ND 4.0]: https://creativecommons.org/licenses/by-nd/4.0/
+[CC BY-NC 3.0]: https://creativecommons.org/licenses/by-nc/3.0/
+[CC BY-NC 4.0]: https://creativecommons.org/licenses/by-nc/4.0/
+[CC BY-NC-ND 3.0]: https://creativecommons.org/licenses/by-nc-nd/3.0/
+[CC BY-NC-ND 4.0]: https://creativecommons.org/licenses/by-nc-nd/4.0/
+[CC BY-NC-SA 3.0]: https://creativecommons.org/licenses/by-nc-sa/3.0/
+[CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 [GNU FDL 1.2]: https://www.gnu.org/licenses/old-licenses/fdl-1.2.html
 [GNU FDL 1.3]: https://www.gnu.org/licenses/fdl-1.3.html
