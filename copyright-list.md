@@ -448,6 +448,7 @@
 | Bash Pocket Reference | Copyright © 2016 Arnold Robbins |
 | Classic Shell Scripting | Copyright © 2005 O’Reilly Media, Inc. |
 | Essential Linux Toolkit | © 2019 by LifeSavvy Media |
+| GREP Manual | [GNU FDL 1.3][GNU FDL 1.3] |
 | How Linux Works_ What Every Superuser Should Know | Copyright © 2015 by Brian Ward |
 | Introduction to Linux | [Special license][garrels] |
 | Linux All-in-One For Dummies | Copyright © 2010 by Wiley Publishing, Inc. |
@@ -467,6 +468,8 @@
 | Linux in a Nutshell | Copyright © 2009 Ellen Siever, Stephen Figgins, and Robert Love |
 | Mastering Linux Shell Scripting | Copyright © 2015 Packt Publishing |
 | Mastering Linux | © 2011 by Taylor and Francis Group, LLC |
+| MAWK Manual | [GNU FDL 1.3][GNU FDL 1.3] |
+| SED Manual | [GNU FDL 1.3][GNU FDL 1.3] |
 | Ten Steps to Linux Survival | Copyright © 2016 O’Reilly Media, Inc. |
 | The Linux Command Line | [CC BY-NC-ND 3.0][CC BY-NC-ND 3.0] |
 
