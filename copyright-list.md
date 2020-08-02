@@ -449,6 +449,7 @@
 | Classic Shell Scripting | Copyright © 2005 O’Reilly Media, Inc. |
 | Essential Linux Toolkit | © 2019 by LifeSavvy Media |
 | GREP Manual | [GNU FDL 1.3][GNU FDL 1.3] |
+| find Manual | [GNU FDL 1.3][GNU FDL 1.3] |
 | How Linux Works_ What Every Superuser Should Know | Copyright © 2015 by Brian Ward |
 | Introduction to Linux | [Special license][garrels] |
 | Linux All-in-One For Dummies | Copyright © 2010 by Wiley Publishing, Inc. |
