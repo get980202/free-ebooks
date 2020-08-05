@@ -495,10 +495,10 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
-| Advanced High School Statistics | [CC BY-SA 3.0][CC BY-SA 3.0] |
-| Introduction to Probability | [GNU FDL 1.3][GNU FDL 1.3] |
-| Introductory Statistics with Randomization and Simulation | [CC BY-SA 3.0][CC BY-SA 3.0] |
-| OpenIntro Statistics | [CC BY-SA 3.0][CC BY-SA 3.0] |
+| Advanced High School Statistics || [CC BY-SA 3.0][CC BY-SA 3.0] |
+| Introduction to Probability || [GNU FDL 1.3][GNU FDL 1.3] |
+| Introductory Statistics with Randomization and Simulation || [CC BY-SA 3.0][CC BY-SA 3.0] |
+| OpenIntro Statistics || [CC BY-SA 3.0][CC BY-SA 3.0] |
 | Probability For Dummies | Copyright © 2006 by Wiley Publishing, Inc., Indianapolis, Indiana | All rights reserved |
 | Statistics 1001 Practice Problems For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
 | Statistics Essentials For Dummies | Copyright © 2010 by Wiley Publishing, Inc., Indianapolis, Indiana | All rights reserved |
@@ -549,7 +549,7 @@
 | Desenvolvimento Web com Python e Django |  |
 | Beginning Django CMS | Copyright © 2015 by Nigel George | All rights reserved |
 | Beginning Django E-Commerce | Copyright © 2009 by Jim McGaw | All rights reserved |
-| Mastering Django | [GNU FDL 1.3][GNU FDL 1.3] |
+| Mastering Django || [GNU FDL 1.3][GNU FDL 1.3] |
 | The Definitive Guide to Django | Copyright © 2009 by Adrian Holovaty and Jacob Kaplan-Moss | All rights reserved |
 | Web Development with Django Cookbook | Copyright © 2014 Packt Publishing | All rights reserved |
 
@@ -560,7 +560,7 @@
 | Python e Orientacao a Objetos |  |
 | Python_ Escreva seus primeiros programas | © Casa do Código | All rights reserved |
 | A Beginners Guide To Python 3 Programming | © Springer Nature Switzerland AG 2019 | All rights reserved |
-| A Byte of Python | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| A Byte of Python || [CC BY-SA 4.0][CC BY-SA 4.0] |
 | A Whirlwind Tour of Python | Copyright © 2016 O’Reilly Media Inc. | All rights reserved |
 | Advanced Guide to Python 3 Programming | © Springer Nature Switzerland AG 2019 | All rights reserved |
 | Beginning Programming with Python For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
@@ -590,7 +590,7 @@
 | Data Structures and Algorithms with Python | © Springer International Publishing Switzerland 2015 | All rights reserved |
 | Doing Math with Python | Copyright © 2015 by Amit Saha | All rights reserved |
 | GUI Programming using Tkinter |  |
-| Guide to NumPy | [Special license][numpy] |
+| Guide to NumPy || [Special license][numpy] |
 | Math Adventures with Python | Copyright © 2019 by Peter Farrell | All rights reserved |
 | Matplotlib for Python Developers | Copyright © 2009 Packt Publishing | All rights reserved |
 | NumPy Beginners Guide | Copyright © 2015 Packt Publishing | All rights reserved |
@@ -598,7 +598,7 @@
 | Numpy User Guide |  |
 | Python GUI Programming Cookbook - 1st ed | Copyright © 2015 Packt Publishing | All rights reserved |
 | Python GUI Programming Cookbook - 2nd ed | Copyright © 2017 Packt Publishing | All rights reserved |
-| Python Tkinter By Example | [CC BY-ND 4.0][CC BY-ND 4.0] |
+| Python Tkinter By Example || [CC BY-ND 4.0][CC BY-ND 4.0] |
 | SciPy and NumPy | Copyright © 2013 Eli Bressert | All rights reserved |
 | The Python 3 Standard Library by Example | Copyright © 2017 Pearson Education, Inc. | All rights reserved |
 | Tkinter 8.5 reference_ a GUI for Python |  |
@@ -669,7 +669,7 @@
 |:----:|:---------:|:-------:|
 | SCRUM 360_ Um guia completo e pratico de agilidade | © Casa do Código | All rights reserved |
 | Scrum_ Gestão agil para projetos de sucesso | © Casa do Código | All rights reserved |
-| The Scrum Guide | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| The Scrum Guide || [CC BY-SA 4.0][CC BY-SA 4.0] |
 
 #### TDD
 
@@ -734,7 +734,7 @@
 | CSS3_ The Missing Manual | Copyright © 2013 Sawyer McFarland Media, Inc. | All rights reserved |
 | Canvas Pocket Reference | Copyright © 2011 David Flanagan | All rights reserved |
 | Coding with JavaScript For Dummies | Copyright © 2015 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
-| Eloquent Javascript | [CC BY-NC 3.0][CC BY-NC 3.0] |
+| Eloquent Javascript || [CC BY-NC 3.0][CC BY-NC 3.0] |
 | HTML & CSS_ Design and build websites | © 2011 by John Wiley & Sons, Inc., Indianapolis, Indiana | All rights reserved |
 | HTML & CSS_ The Good Parts | Copyright © 2010 Ben Henick | All rights reserved |
 | HTML, CSS & JavaScript Mobile Development for Dummies | Copyright © 2011 by John Wiley & Sons, Inc. | All rights reserved |
@@ -770,8 +770,8 @@
 | Mastering Node.js | Copyright © 2013 Packt Publishing | All rights reserved |
 | Node.js Blueprints | Copyright © 2014 Packt Publishing | All rights reserved |
 | Node.js Design Patterns | Copyright © 2016 Packt Publishing | All rights reserved |
-| The Node Beginner Book | [Special license][leanpub] |
-| The Node Craftsman Book | [Special license][leanpub] |
+| The Node Beginner Book || [Special license][leanpub] |
+| The Node Craftsman Book || [Special license][leanpub] |
 | What You Need To Know About Node.js | Copyright © 2016 Packt Publishing | All rights reserved |
 
 #### React
@@ -784,7 +784,7 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
-| Essential Typescript | [Special license][leanpub] |
+| Essential Typescript || [Special license][leanpub] |
 | Mastering TypeScript | Copyright © 2017 Packt Publishing | All rights reserved |
 
 #### Vue.js
@@ -834,27 +834,27 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
-| Business Agility_ agilidade para processos de Pesquisa e Desenvolvimento de produtos | [Special license][mjv] |
-| Business Intelligence e Design Thinking_ uma nova abordagem | [Special license][mjv] |
-| Data Design_ Descubra por que o Design Thinking e essencial na adocao de novas tecnologias | [Special license][mjv] |
-| Design Sprint_ testando ideias em apenas cinco dias | [Special license][mjv] |
-| Design System | [Special license][mjv] |
-| Design Thinking e Agil_ No contexto da transformacao digital | [Special license][mjv] |
-| Design driven Data Science_ Integrando Design Thinking com aprendizado de maquina para solucoes em negocios | [Special license][mjv] |
-| Design thinking_ inovacao em negocios | [Special license][mjv] |
-| DesignOps_  sua maquina de design | [Special license][mjv] |
-| DevOps_ reduza o tempo de entrega da sua TI | [Special license][mjv] |
-| Human-Centered Design_ Como aplicar os conceitos no seu negocio | [Special license][mjv] |
-| Inovacao_ cultura como drive para tecnologias emergentes | [Special license][mjv] |
-| Legal Design_ O Direito na era da Transformacao Digital | [Special license][mjv] |
-| MJV Trends 2020_ tendencias de TI | [Special license][mjv] |
-| Modelo Lean_ o que e e porque aplicar na sua empresa | [Special license][mjv] |
-| Os 7 erros que voce nao pode cometer na sua gestao de projetos | [Special license][mjv] |
-| Praticas Ageis_ times engajados, resultados acelerados e cultura de melhoria continua | [Special license][mjv] |
-| Scrum_ Guia para Implementar em Gerenciamento de Projetos | [Special license][mjv] |
-| Startups_ como elas aceleram os resultados do seu negocio | [Special license][mjv] |
-| User Experience_ Por que e como orientar seu negocio para o usuario? | [Special license][mjv] |
-| The Basics of User Experience Design | [Special license][mjv] |
+| Business Agility_ agilidade para processos de Pesquisa e Desenvolvimento de produtos || [Special license][mjv] |
+| Business Intelligence e Design Thinking_ uma nova abordagem || [Special license][mjv] |
+| Data Design_ Descubra por que o Design Thinking e essencial na adocao de novas tecnologias || [Special license][mjv] |
+| Design Sprint_ testando ideias em apenas cinco dias || [Special license][mjv] |
+| Design System || [Special license][mjv] |
+| Design Thinking e Agil_ No contexto da transformacao digital || [Special license][mjv] |
+| Design driven Data Science_ Integrando Design Thinking com aprendizado de maquina para solucoes em negocios || [Special license][mjv] |
+| Design thinking_ inovacao em negocios || [Special license][mjv] |
+| DesignOps_  sua maquina de design || [Special license][mjv] |
+| DevOps_ reduza o tempo de entrega da sua TI || [Special license][mjv] |
+| Human-Centered Design_ Como aplicar os conceitos no seu negocio || [Special license][mjv] |
+| Inovacao_ cultura como drive para tecnologias emergentes || [Special license][mjv] |
+| Legal Design_ O Direito na era da Transformacao Digital || [Special license][mjv] |
+| MJV Trends 2020_ tendencias de TI || [Special license][mjv] |
+| Modelo Lean_ o que e e porque aplicar na sua empresa || [Special license][mjv] |
+| Os 7 erros que voce nao pode cometer na sua gestao de projetos || [Special license][mjv] |
+| Praticas Ageis_ times engajados, resultados acelerados e cultura de melhoria continua || [Special license][mjv] |
+| Scrum_ Guia para Implementar em Gerenciamento de Projetos || [Special license][mjv] |
+| Startups_ como elas aceleram os resultados do seu negocio || [Special license][mjv] |
+| User Experience_ Por que e como orientar seu negocio para o usuario? || [Special license][mjv] |
+| The Basics of User Experience Design || [Special license][mjv] |
 
 #### Manning
 
