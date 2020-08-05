@@ -49,7 +49,7 @@
 | Advanced Machine Learning with Python | Copyright © 2016 Packt Publishing | All rights reserved |
 | Agile Machine Learning | Copyright © 2019 by Eric Carter, Matthew Hurst | All rights reserved |
 | An Introduction to Machine Learning | © Springer International Publishing Switzerland 2015 | All rights reserved |
-| Basics for Linear Algebra for Machine Learning | © Copyright 2018 Jason Brownlee | All rights reserved | All rights reserved |
+| Basics of Linear Algebra for Machine Learning | © Copyright 2018 Jason Brownlee | All rights reserved | All rights reserved |
 | Data Science Algorithms in a Week | Copyright © 2017 Packt Publishing | All rights reserved |
 | Getting Shit Done with PyTorch_ Solve Real-World Machine Learning Problems | [Special license][leanpub] |
 | Getting Started with TensorFlow | Copyright © 2016 Packt Publishing | All rights reserved |
@@ -57,6 +57,7 @@
 | Introduction to Machine Learning with Python_ A Guide for Data Scientists | Copyright © 2017 Sarah Guido, Andreas Müller | All rights reserved |
 | Introduction to Machine Learning | © 2010 Massachusetts Institute of Technology | All rights reserved |
 | Learning scikit-learn_ Machine Learning in Python | Copyright © 2013 Packt Publishing | All rights reserved |
+| Machine Learning_ A Probabilistic Perspective | © 2012 Massachusetts Institute of Technology | All rights reserved |
 | Machine Learning Algorithms | Copyright © 2017 Packt Publishing | All rights reserved |
 | Machine Learning Mastery With Python | © Copyright 2016 Jason Brownlee | All rights reserved |
 | Machine Learning Refined | © Cambridge University Press 2016 | All rights reserved |
@@ -77,6 +78,7 @@
 | Master Machine Learning Algorithms | © Copyright 2016 Jason Brownlee | All rights reserved |
 | Mastering Machine Learning with Python in Six Steps | Copyright © 2019 by Manohar Swamynathan | All rights reserved |
 | Mastering TensorFlow 1.x_ Advanced machine learning and deep learning concepts using TensorFlow 1.x and Keras | Copyright © 2018 Packt Publishing | All rights reserved |
+| Pattern Recognition and Machine Learning | © 2006 Springer Science+Business Media, LLC | All rights reserved |
 | Practical Machine Learning and Image Processing | Copyright © 2019 by Himanshu Singh | All rights reserved |
 | Practical Machine Learning with Python | Copyright © 2018 by Dipanjan Sarkar, Raghav Bali and Tushar Sharma | All rights reserved |
 | Pro Machine Learning Algorithms | Copyright © 2018 by V Kishore Ayyadevara | All rights reserved |
@@ -278,6 +280,9 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
+| Computer Vision_ A Modern Approach | Copyright © 2012, 2003 by Pearson Education, Inc., publishing as Prentice Hall | All rights reserved |
+| Computer Vision_ Algorithms and Applications | © Springer-Verlag London Limited 2011 | All rights reserved |
+| Computer Vision_ models, learning and inference | Copyright © 2011, 2012 by Simon Prince | All rights reserved |
 | Concise Computer Vision | © Springer-Verlag London 2014 | All rights reserved |
 | Introduction to Video and Image Processing | © Springer-Verlag London Limited 2012 | All rights reserved |
 | Learning OpenCV 3 Computer Vision with Python | Copyright © 2015 Packt Publishing | All rights reserved |
