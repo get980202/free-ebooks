@@ -3,31 +3,31 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
-| Codigo Limpo_ Habilidades e Praticas do Agile Software | Copyright © 2009 Pearson Education, Inc. |
-| Logica de programacao_ Crie seus primeiros programas usando Javascript e HTML | © Casa do Código |
-| Algorithms For Dummies | Copyright © 2017 by John Wiley & Sons, Inc., Hoboken, New Jersey |
-| Clean Code_ A Handbook of Agile Software Craftsmanship | Copyright © 2009 Pearson Education, Inc. |
-| Concise Guide to Object-Oriented Programming | © Springer Nature Switzerland AG 2019 |
-| Design Patterns For Dummies | Copyright © 2006 by Wiley Publishing, Inc., Indianapolis, Indiana |
-| Guide to Competitive Programming | © Springer International Publishing AG, part of Springer Nature 2017 |
-| Guide to Data Structures | © Springer International Publishing AG 2017 |
-| Introduction to Algorithms - 3rd ed | © 2009 Massachusetts Institute of Technology |
-| Learning Object-Oriented Programming | Copyright © 2015 Packt Publishing |
-| Object-Oriented Analysis, Design and Implementation | © Universities Press (India) Private Ltd. 2010, 2015 |
-| Object-Oriented Software Construction |  |
-| Object-Oriented vs Functional Programming | Copyright © 2016 O’Reilly Media |
-| Practical Analysis of Algorithms | © Springer International Publishing Switzerland 2014 |
-| The Object Oriented Thought Proccess - 3rd ed | Copyright © 2009 by Pearson Education |
-| The Object-Oriented Thought Process - 4th ed | Copyright © 2013 by Pearson Education, Inc. |
-| The Object-Oriented Thought Process - 5th ed | Copyright © 2019 Pearson Education, Inc. |
+| Codigo Limpo_ Habilidades e Praticas do Agile Software | Copyright © 2009 Pearson Education, Inc. | All rights reserved |
+| Logica de programacao_ Crie seus primeiros programas usando Javascript e HTML | © Casa do Código | All rights reserved |
+| Algorithms For Dummies | Copyright © 2017 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
+| Clean Code_ A Handbook of Agile Software Craftsmanship | Copyright © 2009 Pearson Education, Inc. | All rights reserved |
+| Concise Guide to Object-Oriented Programming | © Springer Nature Switzerland AG 2019 | All rights reserved |
+| Design Patterns For Dummies | Copyright © 2006 by Wiley Publishing, Inc., Indianapolis, Indiana | All rights reserved |
+| Guide to Competitive Programming | © Springer International Publishing AG, part of Springer Nature 2017 | All rights reserved |
+| Guide to Data Structures | © Springer International Publishing AG 2017 | All rights reserved |
+| Introduction to Algorithms - 3rd ed | © 2009 Massachusetts Institute of Technology | All rights reserved |
+| Learning Object-Oriented Programming | Copyright © 2015 Packt Publishing | All rights reserved |
+| Object-Oriented Analysis, Design and Implementation | © Universities Press (India) Private Ltd. 2010, 2015 | All rights reserved |
+| Object-Oriented Software Construction |  | All rights reserved |
+| Object-Oriented vs Functional Programming | Copyright © 2016 O’Reilly Media | All rights reserved |
+| Practical Analysis of Algorithms | © Springer International Publishing Switzerland 2014 | All rights reserved |
+| The Object Oriented Thought Proccess - 3rd ed | Copyright © 2009 by Pearson Education | All rights reserved |
+| The Object-Oriented Thought Process - 4th ed | Copyright © 2013 by Pearson Education, Inc. | All rights reserved |
+| The Object-Oriented Thought Process - 5th ed | Copyright © 2019 Pearson Education, Inc. | All rights reserved |
 
 ## Analytic Geometry and Linear Algebra
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
 | Algebra Linear | Copyright © 1987 da Editora McGraw-Hill, Ltda. | All rights reserved |
-| Apostila de Algebra Linear |  |
-| Geometria Analitica |  |
+| Apostila de Algebra Linear |  |  |
+| Geometria Analitica |  |  |
 | Vetores e Geometria Analitica - 1ª ed | © 2000 by Pearson Education do Brasil | All rights reserved |
 | Vetores e Geometria Analitica - 2ª ed | © 2014 by Pearson Education do Brasil | All rights reserved |
 | Linear Algebra For Dummies | Copyright © 2009 by Wiley Publishing, Inc., Indianapolis, Indiana | All rights reserved |
@@ -51,7 +51,7 @@
 | An Introduction to Machine Learning | © Springer International Publishing Switzerland 2015 | All rights reserved |
 | Basics of Linear Algebra for Machine Learning | © Copyright 2018 Jason Brownlee | All rights reserved | All rights reserved |
 | Data Science Algorithms in a Week | Copyright © 2017 Packt Publishing | All rights reserved |
-| Getting Shit Done with PyTorch_ Solve Real-World Machine Learning Problems | [Special license][leanpub] |
+| Getting Shit Done with PyTorch_ Solve Real-World Machine Learning Problems | © 2020 Venelin Valkov | [Special license][leanpub] |
 | Getting Started with TensorFlow | Copyright © 2016 Packt Publishing | All rights reserved |
 | Hands-On Machine Learning with Scikit-Learn and TensorFlow | Copyright © 2017 Aurélien Géron | All rights reserved |
 | Introduction to Machine Learning with Python_ A Guide for Data Scientists | Copyright © 2017 Sarah Guido, Andreas Müller | All rights reserved |
@@ -90,7 +90,7 @@
 | Scala for Machine Learning | Copyright © 2014 Packt Publishing | All rights reserved |
 | Statistical Methods for Machine Learning | © Copyright 2019 Jason Brownlee | All rights reserved |
 | Statistics for Machine Learning | Copyright © 2017 Packt Publishing | All rights reserved |
-| The Hundred-Page Machine Learning Book | [Read first, buy later][rfbl] |
+| The Hundred-Page Machine Learning Book | Copyright © 2019 Andriy Burkov | [Read first, buy later][rfbl] |
 | Thoughtful Machine Learning with Python | Copyright © 2017 Matthew Kirk | All rights reserved |
 | Understanding Machine Learning_ From Theory to Algorithms | © Shai Shalev-Shwartz and Shai Ben-David 2014 | All rights reserved |
 | XGBoost with Python | © Copyright 2018 Jason Brownlee | All rights reserved |
@@ -99,7 +99,7 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
-| Como funciona o Deep Learning | [CC BY-NC-SA 4.0][CC BY-NC-SA 4.0] |
+| Como funciona o Deep Learning | Copyright © 2018 Moacir Ponti and Gabriel De Barros Paranhos da Costa | [CC BY-NC-SA 4.0][CC BY-NC-SA 4.0] |
 | Advanced Applied Deep Learning | Copyright © 2019 by Umberto Michelucci | All rights reserved |
 | Advanced Deep Learning with Keras | Copyright © 2018 Packt Publishing | All rights reserved |
 | Advanced Machine Learning with Python | Copyright © 2016 Packt Publishing | All rights reserved |
@@ -123,7 +123,7 @@
 | Deep Learning_ A Practitioner's Approach | Copyright © 2017 Josh Patterson and Adam Gibson | All rights reserved |
 | Deep Learning_ Fundamentals, Theory and Applications | © Springer Nature Switzerland AG 2019 | All rights reserved |
 | Deep learning for Time Series Forecasting | © Copyright 2019 Jason Brownlee | All rights reserved |
-| Dive into Deep Learning | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Dive into Deep Learning |  | [CC BY-SA 4.0][CC BY-SA 4.0] |
 | Fundamentals of Deep Learning | Copyright © 2017 Nikhil Buduma | All rights reserved |
 | Grokking Deep Learning | Copyright 2017 Manning Publications | All rights reserved |
 | Hands-On Java Deep Learning for Computer Vision | Copyright © 2019 Packt Publishing | All rights reserved |
@@ -136,7 +136,7 @@
 | Make Your Own Neural Network (1) |  |
 | Make Your Own Neural Network (2) |  |
 | Mastering Machine Learning with scikit-learn | Copyright © 2014 Packt Publishing | All rights reserved |
-| Neural Networks and Deep Learning | [CC BY-NC 3.0][CC BY-NC 3.0] |
+| Neural Networks and Deep Learning | Copyright © 2019 Michael Nielsen | [CC BY-NC 3.0][CC BY-NC 3.0] |
 | Neural Networks and Deep Learning_ A Textbook | © Springer International Publishing AG, part of Springer Nature 2018 | All rights reserved |
 | Neural Networks_ A Visual Introduction for Beginners | © 2017 Blue Windmill Media | All rights reserved |
 | Practical Computer Vision Applications Using Deep Learning with CNNs | Copyright © 2018 by Ahmed Fawzy Gad | All rights reserved |
@@ -214,9 +214,9 @@
 | Cálculo vol. 2, 6ª ed. - Stewart |  | All rights reserved |
 | Cálculo vol. 2, 7ª ed. - Stewart | © 2014 Cengage Learning Edições Ltda. | All rights reserved |
 | Um Curso de Calculo vol. 1 - Guidorizzi | Copyright © 1985, 1987, 1997, 2000, 2001 by Hamilton Luiz Guidorizzi | All rights reserved |
-| Um Curso de Calculo vol. 2 - Guidorizzi | All rights reserved |
-| Um Curso de Calculo vol. 3 - Guidorizzi | All rights reserved |
-| Um Curso de Calculo vol. 4 - Guidorizzi | All rights reserved |
+| Um Curso de Calculo vol. 2 - Guidorizzi || All rights reserved |
+| Um Curso de Calculo vol. 3 - Guidorizzi || All rights reserved |
+| Um Curso de Calculo vol. 4 - Guidorizzi || All rights reserved |
 | Calculus Essentials For Dummies | Copyright © 2010 by Wiley Publishing, Inc., Indianapolis, Indiana | All rights reserved |
 | Calculus For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
 | Calculus For Dummies_ 1001 Practice Problems | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
@@ -307,7 +307,7 @@
 | Sistema de Banco de Dados - Silberschatz |  | All rights reserved |
 | Sistemas de Banco de dados - Elmasri | © 2011 by Pearson Education do Brasil | All rights reserved |
 | Concise Guide to Databases | © Springer-Verlag London 2013 | All rights reserved |
-| PostgresSQL 9.5 Documentation | [Specific license][postgresql-doc] |
+| PostgresSQL 9.5 Documentation || [Specific license][postgresql-doc] |
 | SQL For Dummies | Copyright © 2013 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
 
 ## Digital Circuits
@@ -316,7 +316,7 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
-| Tutorial Quartus II | [Specific license][tutorial-quartus] |
+| Tutorial Quartus II || [Specific license][tutorial-quartus] |
 | Altera DE1 User Manual | Copyright © 2012 Altera Corporation | All rights reserved |
 | Altera Quartus II Handbook Version 12.0 | © 2012 Altera Corporation | All rights reserved |
 | Altera Quartus II Handbook Version 13.0 | © 2013 Altera Corporation | All rights reserved |
@@ -325,9 +325,9 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
-| Free Range VHDL | [CC BY-SA 3.0][CC BY-SA 3.0] |
+| Free Range VHDL | Copyright © 2011 B. Mealy, F. Tappero | [CC BY-SA 3.0][CC BY-SA 3.0] |
 | VHDL Generate | Copyright © 2001, Roger Traylor | All rights reserved |
-| VHDL Port Map | [Special license][vhdl-whiz] |
+| VHDL Port Map | [Special license][vhdl-whiz] |  |
 | VHDL Quick Reference Card |  | All rights reserved |
 | VHDL Testbenches |  | All rights reserved |
 
@@ -347,7 +347,7 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
-| Producing Open Source Software_ How to Run a Successful Free Software Project | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Producing Open Source Software_ How to Run a Successful Free Software Project |  | [CC BY-SA 4.0][CC BY-SA 4.0] |
 | The Complete Guide to Open Source Licenses 2020 |  |  |
 
 ## Formal Language and Automata
@@ -370,7 +370,7 @@
 | Github Essentials | Copyright © 2015 Packt Publishing | All rights reserved |
 | Markdown cheatsheet |  |
 | Mastering Git | Copyright © 2016 Packt Publishing | All rights reserved |
-| Pro Git | [CC BY-NC-SA 3.0][CC BY-NC-SA 3.0] |
+| Pro Git | Copyright © 2019 Scott Chacon, Ben Straub | [CC BY-NC-SA 3.0][CC BY-NC-SA 3.0] |
 | Version Control with Git | Copyright © 2012 Jon Loeliger | All rights reserved |
 
 ## Graph Theory
@@ -394,21 +394,21 @@
 |:----:|:---------:|:-------:|
 | Aplicacoes Java para a web com JSF e JPA | © Casa do Código | All rights reserved |
 | Apostila Java e POO |  |
-| CDI: Integre as dependencias e contextos do seu codigo Java | @ Casa do Código | All rights reserved |
-| Componentes Reutilizaveis em Java Com Reflexoes e Anotacoes | @ Casa do Código | All rights reserved |
-| Desbravando Java e Orientacao a Objetos_ Um guia para o iniciante da linguagem | @ Casa do Código | All rights reserved |
-| Design Patterns com Java_ Projeto orientado a objetos guiado por padroes | @ Casa do Código | All rights reserved |
-| Explorando APIs e bibliotecas Java_ JDBC, IO, Threads, JavaFX e mais | @ Casa do Código | All rights reserved |
-| JPA Eficaz_ As melhores praticas de persistencia de dados em Java | @ Casa do Código | All rights reserved |
-| JSF Eficaz_ As melhores praticas para o desenvolvedor web Java | @ Casa do Código | All rights reserved |
-| Java 8 Pratico_ Lambdas, Streams e os novos recursos da linguagem | @ Casa do Código | All rights reserved |
-| Java SE 7 Programmer I_ O guia para sua certificacao Oracle Certified Associate | @ Casa do Código | All rights reserved |
+| CDI: Integre as dependencias e contextos do seu codigo Java | © Casa do Código | All rights reserved |
+| Componentes Reutilizaveis em Java Com Reflexoes e Anotacoes | © Casa do Código | All rights reserved |
+| Desbravando Java e Orientacao a Objetos_ Um guia para o iniciante da linguagem | © Casa do Código | All rights reserved |
+| Design Patterns com Java_ Projeto orientado a objetos guiado por padroes | © Casa do Código | All rights reserved |
+| Explorando APIs e bibliotecas Java_ JDBC, IO, Threads, JavaFX e mais | © Casa do Código | All rights reserved |
+| JPA Eficaz_ As melhores praticas de persistencia de dados em Java | © Casa do Código | All rights reserved |
+| JSF Eficaz_ As melhores praticas para o desenvolvedor web Java | © Casa do Código | All rights reserved |
+| Java 8 Pratico_ Lambdas, Streams e os novos recursos da linguagem | © Casa do Código | All rights reserved |
+| Java SE 7 Programmer I_ O guia para sua certificacao Oracle Certified Associate | © Casa do Código | All rights reserved |
 | Java e Orientacao a Objetos |  |
 | Java para Desenvolvimento Web |  |
 | JavaFX_ Interfaces com qualidade para aplicacoes desktop | © Casa do Código | All rights reserved |
 | MundoJ_ Orientacao a Objetos | © Casa do Código | All rights reserved |
 | MundoJ_ Seguranca com Java | © Casa do Código | All rights reserved |
-| Orientacao a Objetos em Java | [Special License][k19] |
+| Orientacao a Objetos em Java | © 2012 K19 | [Special License][k19] |
 | Play Framework_ Java para web sem servlets e com diversao | © Casa do Código | All rights reserved |
 | Spring MVC_ Domine o principal framework web Java | © Casa do Código | All rights reserved |
 | Vire o jogo com Spring Framework | © Casa do Código | All rights reserved |
@@ -418,7 +418,7 @@
 | Building a REST API with Spring |  |
 | Guide to Java | © Springer-Verlag London 2014 | All rights reserved |
 | Introducing Java 8 | Copyright © 2015 O’Reilly Media, Inc. | All rights reserved |
-| JUnit Programming Cookbook | Copyright © Exelixis Media P.C., 2017 |
+| JUnit Programming Cookbook | Copyright © 2017 Exelixis Media P.C. | All rights reserved |
 | Java 8 Pocket Guide | Copyright © 2014 Gliesian, LLC | All rights reserved |
 | Java 9 Programming By Example | Copyright © 2017 Packt Publishing | All rights reserved |
 | Java All-in-One For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
@@ -436,10 +436,10 @@
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
 | Apostila de LaTeX | [Special license][uff] |
-| Curso LaTeX |  |
-| Curso de Introducao ao LaTeX |  |
-| Curso de LaTeX |  |
-| LaTeX by Wikibooks | [CC BY-SA 3.0][CC BY-SA 3.0] |
+| Curso LaTeX |  ||
+| Curso de Introducao ao LaTeX |  ||
+| Curso de LaTeX |  ||
+| LaTeX by Wikibooks | |[CC BY-SA 3.0][CC BY-SA 3.0] |
 
 ## Linux
 
@@ -453,16 +453,16 @@
 | Bash Pocket Reference | Copyright © 2016 Arnold Robbins | All rights reserved |
 | Classic Shell Scripting | Copyright © 2005 O’Reilly Media, Inc. | All rights reserved |
 | Essential Linux Toolkit | © 2019 by LifeSavvy Media | All rights reserved |
-| GREP Manual | [GNU FDL 1.3][GNU FDL 1.3] |
-| find Manual | [GNU FDL 1.3][GNU FDL 1.3] |
+| GREP Manual | |[GNU FDL 1.3][GNU FDL 1.3] |
+| find Manual | |[GNU FDL 1.3][GNU FDL 1.3] |
 | How Linux Works_ What Every Superuser Should Know | Copyright © 2015 by Brian Ward | All rights reserved |
-| Introduction to Linux | [Special license][garrels] |
+| Introduction to Linux | |[Special license][garrels] |
 | Linux All-in-One For Dummies | Copyright © 2010 by Wiley Publishing, Inc. | All rights reserved |
 | Linux Basics for Hackers | Copyright © 2019 by OccupyTheWeb | All rights reserved |
 | Linux Bible | Copyright © 2015 by John Wiley & Sons, Inc., Indianapolis, Indiana | All rights reserved |
 | Linux Command Line and Shell Scripting Bible | Copyright © 2015 by John Wiley & Sons, Inc., Indianapolis, Indiana | All rights reserved |
-| Linux Dictionary | [GNU FDL 1.2][GNU FDL 1.2] |
-| Linux Filesystem Hierarchy | [GNU FDL 1.2][GNU FDL 1.2] |
+| Linux Dictionary || [GNU FDL 1.2][GNU FDL 1.2] |
+| Linux Filesystem Hierarchy || [GNU FDL 1.2][GNU FDL 1.2] |
 | Linux For Dummies | Copyright © 2009 by Wiley Publishing, Inc., Indianapolis, Indiana | All rights reserved |
 | Linux Mint Essentials | Copyright © 2014 Packt Publishing | All rights reserved |
 | Linux Phrasebook | Copyright © 2016 by Pearson Education, Inc. | All rights reserved |
@@ -474,10 +474,10 @@
 | Linux in a Nutshell | Copyright © 2009 Ellen Siever, Stephen Figgins, and Robert Love | All rights reserved |
 | Mastering Linux Shell Scripting | Copyright © 2015 Packt Publishing | All rights reserved |
 | Mastering Linux | © 2011 by Taylor and Francis Group, LLC | All rights reserved |
-| MAWK Manual | [GNU FDL 1.3][GNU FDL 1.3] |
-| SED Manual | [GNU FDL 1.3][GNU FDL 1.3] |
+| MAWK Manual || [GNU FDL 1.3][GNU FDL 1.3] |
+| SED Manual || [GNU FDL 1.3][GNU FDL 1.3] |
 | Ten Steps to Linux Survival | Copyright © 2016 O’Reilly Media, Inc. | All rights reserved |
-| The Linux Command Line | [CC BY-NC-ND 3.0][CC BY-NC-ND 3.0] |
+| The Linux Command Line || [CC BY-NC-ND 3.0][CC BY-NC-ND 3.0] |
 
 ## Operating Systems
 
