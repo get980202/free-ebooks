@@ -50,6 +50,7 @@
 | Agile Machine Learning | Copyright © 2019 by Eric Carter, Matthew Hurst | All rights reserved |
 | An Introduction to Machine Learning | © Springer International Publishing Switzerland 2015 | All rights reserved |
 | Basics of Linear Algebra for Machine Learning | © Copyright 2018 Jason Brownlee | All rights reserved | All rights reserved |
+| Building Machine Learning and Deep Learning Models on Google Cloud Platform | Copyright © 2019 by Ekaba Bisong | All rights reserved |
 | Data Science Algorithms in a Week | Copyright © 2017 Packt Publishing | All rights reserved |
 | Getting Shit Done with PyTorch_ Solve Real-World Machine Learning Problems | © 2020 Venelin Valkov | [Special license][leanpub] |
 | Getting Started with TensorFlow | Copyright © 2016 Packt Publishing | All rights reserved |
@@ -68,6 +69,7 @@
 | Machine Learning for Human Beings | © Zenva Pty Ltd 2018 | All rights reserved |
 | Machine Learning in Action | © 2012 by Manning Publications Co. | All rights reserved |
 | Machine Learning in Java | Copyright © 2016 Packt Publishing | All rights reserved |
+| Machine Learning Refined_ Foundations, Algorithms, and Applications | © Cambridge University Press 2020 | All rights reserved |
 | Machine Learning with Microsoft Technologies | Copyright © 2019 by Leila Etaati | All rights reserved |
 | Machine Learning with Python Cookbook | Copyright © 2018 Chris Albon | All rights reserved |
 | Machine Learning with R | Copyright © 2015 Packt Publishing | All rights reserved |
@@ -113,6 +115,7 @@
 | Deep Learning for Computer Vision with Python - Starter Bundle | Copyright © 2017 Adrian Rosebrock, PyImageSearch.com | All rights reserved |
 | Deep Learning for Computer Vision | Copyright © 2018 Packt Publishing | All rights reserved |
 | Deep Learning for Vision Systems | Copyright 2019 Manning Publications | All rights reserved |
+| Deep learning in computer vision_ principles and applications | © 2020 by Taylor & Francis Group, LLC | All rights reserved |
 | Deep Learning in Object Detection and Recognition | © Springer Nature Singapore Pte Ltd. 2019 | All rights reserved |
 | Deep Learning with JavaScript | © 2020 by Manning Publications Co. | All rights reserved |
 | Deep Learning with PyTorch - Packt | Copyright © 2018 Packt Publishing | All rights reserved |
@@ -283,18 +286,25 @@
 |:----:|:---------:|:-------:|
 | Computer Vision_ A Modern Approach | Copyright © 2012, 2003 by Pearson Education, Inc., publishing as Prentice Hall | All rights reserved |
 | Computer Vision_ Algorithms and Applications | © Springer-Verlag London Limited 2011 | All rights reserved |
+| Computer Vision Metrics | Copyright © 2014 by Apress Media, LLC | [Special licese](apress-1) |
 | Computer Vision_ Models, Learning and Inference | Copyright © 2011, 2012 by Simon Prince | All rights reserved |
 | Concise Computer Vision | © Springer-Verlag London 2014 | All rights reserved |
+| Frontiers of Computer Vision | © Springer Nature Singapore Pte Ltd. 2020 | All rights reserved |
 | Introduction to Video and Image Processing | © Springer-Verlag London Limited 2012 | All rights reserved |
+| Learn Computer Vision Using OpenCV | Copyright © 2019 by Sunila Gollapudi | All rights reserved |
 | Learning OpenCV 3 Computer Vision with Python | Copyright © 2015 Packt Publishing | All rights reserved |
+| Learning OpenCV 4 Computer Vision with Python | Copyright © 2020 Packt Publishing | All rights reserved |
 | Mastering OpenCV 3 | Copyright © 2017 Packt Publishing | All rights reserved |
 | Mastering OpenCV with Practical Computer Vision Projects | Copyright © 2012 Packt Publishing | All rights reserved |
 | OpenCV 3 Computer Vision Application Programming Cookbook | Copyright © 2017 Packt Publishing | All rights reserved |
+| OpenCV 4 with Python Blueprints | Copyright © 2020 Packt Publishing | All rights reserved |
 | OpenCV Computer Vision with Python | Copyright © 2013 Packt Publishing | All rights reserved |
 | Practical Python and OpenCV | Copyright © 2016 Adrian Rosebrock, PyImageSearch.com | All rights reserved |
 | Principles of Digital Image Processing_ Advanced Methods | © Springer-Verlag London 2013 | All rights reserved |
 | Principles of Digital Image Processing_ Core Algorithms | © Springer-Verlag London Limited 2009 | All rights reserved |
 | Principles of Digital Image Processing_ Fundamental Techniques | © Springer-Verlag London Limited 2009 | All rights reserved |
+| PyTorch Computer Vision Cookbook | Copyright © 2020 Packt Publishing | All rights reserved |
+| Recent Trends in Image and Signal Processing in Computer Vision | © Springer Nature Singapore Pte Ltd. 2020 | All rights reserved |
 
 ## Database
 
@@ -966,6 +976,7 @@
 [GNU FDL 1.2]: https://www.gnu.org/licenses/old-licenses/fdl-1.2.html
 [GNU FDL 1.3]: https://www.gnu.org/licenses/fdl-1.3.html
 
+[apress-1]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/d3f3d9869ae70cfc8d3c3941f9ba1ea43292f904/apress-1.md
 [garrels]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/846e7af631fa9c3b134ef7eb01585f52f2443d2c/garrels.md
 [k19]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/449b9ad1bc04bdd140cc9b0c3c1d5369b9d6d4a7/k19.md
 [leanpub]: https://leanpub.com/terms#copyright-creative-commons-public-domain-disputed-content-and-related-policies
