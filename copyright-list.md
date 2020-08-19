@@ -36,11 +36,13 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
+| Artificial Intelligence_ A New Synthesis | Copyright © 1998 by Morgan Kaufmann Publishers, Inc. | All rights reserved |
 | Artificial Intelligence By Example | Copyright © 2018 Packt Publishing | All rights reserved |
 | Artificial Intelligence for Dummies | Copyright © 2018 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
 | Artificial Intelligence with Python | Copyright © 2017 Packt Publishing | All rights reserved |
 | Artificial Intelligence_ A Modern Approach | © Pearson Education Limited 2016 | All rights reserved |
 | Introduction to Artificial Intelligence | © Springer International Publishing AG 2017 | All rights reserved |
+| Paradigms of artifical intelligence programming | © Morgan Kaufmann 1992 | All rights reserved |
 
 #### Machine Learning
 
@@ -49,7 +51,9 @@
 | Advanced Machine Learning with Python | Copyright © 2016 Packt Publishing | All rights reserved |
 | Agile Machine Learning | Copyright © 2019 by Eric Carter, Matthew Hurst | All rights reserved |
 | An Introduction to Machine Learning | © Springer International Publishing Switzerland 2015 | All rights reserved |
+| An Introduction to Statistical Learning | © Springer Science+Business Media New York 2013 (Corrected at 8 th printing 2017) | All rights reserved |
 | Basics of Linear Algebra for Machine Learning | © Copyright 2018 Jason Brownlee | All rights reserved | All rights reserved |
+| Bayesian Reasoning and Machine Learning | © David Barber c 2007,2008,2009,2010,2011,2012,2013,2014,2015,2016 | All rights reserved |
 | Building Machine Learning and Deep Learning Models on Google Cloud Platform | Copyright © 2019 by Ekaba Bisong | All rights reserved |
 | Data Science Algorithms in a Week | Copyright © 2017 Packt Publishing | All rights reserved |
 | Getting Shit Done with PyTorch_ Solve Real-World Machine Learning Problems | © 2020 Venelin Valkov | [Special license][leanpub] |
@@ -58,6 +62,8 @@
 | Introduction to Machine Learning with Python_ A Guide for Data Scientists | Copyright © 2017 Sarah Guido, Andreas Müller | All rights reserved |
 | Introduction to Machine Learning | © 2010 Massachusetts Institute of Technology | All rights reserved |
 | Learning scikit-learn_ Machine Learning in Python | Copyright © 2013 Packt Publishing | All rights reserved |
+| Learning From Data_ A Short Course | © 2012 Yaser S. Abu Mostafa, Malik Magdon Ismail, Hsuan Tien Lin. | All rights reserved |
+| Machine Learning - Tom M. Mitchell || All rights reserved |
 | Machine Learning_ A Probabilistic Perspective | © 2012 Massachusetts Institute of Technology | All rights reserved |
 | Machine Learning Algorithms | Copyright © 2017 Packt Publishing | All rights reserved |
 | Machine Learning Mastery With Python | © Copyright 2016 Jason Brownlee | All rights reserved |
@@ -77,6 +83,7 @@
 | Machine Learning | Copyright © 2015 by John Wiley & Sons, Inc., Indianapolis, Indiana | All rights reserved |
 | Machine Learning_  An Algorithmic Perspective | © 2015 by Taylor & Francis Group, LLC | All rights reserved |
 | Machine Learning_ A Bayesian and Optimization Perspective | Copyright © 2015 Elsevier Ltd. | All rights reserved |
+| Machine Learning Yearning | © 2018 Andrew Ng. | All rights reserved |
 | Master Machine Learning Algorithms | © Copyright 2016 Jason Brownlee | All rights reserved |
 | Mastering Machine Learning with Python in Six Steps | Copyright © 2019 by Manohar Swamynathan | All rights reserved |
 | Mastering TensorFlow 1.x_ Advanced machine learning and deep learning concepts using TensorFlow 1.x and Keras | Copyright © 2018 Packt Publishing | All rights reserved |
@@ -84,6 +91,7 @@
 | Practical Machine Learning and Image Processing | Copyright © 2019 by Himanshu Singh | All rights reserved |
 | Practical Machine Learning with Python | Copyright © 2018 by Dipanjan Sarkar, Raghav Bali and Tushar Sharma | All rights reserved |
 | Pro Machine Learning Algorithms | Copyright © 2018 by V Kishore Ayyadevara | All rights reserved |
+| Programming Collective Intelligence | Copyright © 2007 Toby Segaran | All rights reserved |
 | Python Machine Learning - Packt | Copyright © 2017 Packt Publishing | All rights reserved |
 | Python Machine Learning - Wiley | Copyright © 2019 by John Wiley & Sons, Inc., Indianapolis, Indiana | All rights reserved |
 | Python Machine Learning Case Studies | Copyright © 2017 by Danish Haroon | All rights reserved |
@@ -92,7 +100,9 @@
 | Scala for Machine Learning | Copyright © 2014 Packt Publishing | All rights reserved |
 | Statistical Methods for Machine Learning | © Copyright 2019 Jason Brownlee | All rights reserved |
 | Statistics for Machine Learning | Copyright © 2017 Packt Publishing | All rights reserved |
+| The Elements of Statistical Learning | © Springer-Verlag New York 2009 | All rights reserved |
 | The Hundred-Page Machine Learning Book | Copyright © 2019 Andriy Burkov | [Read first, buy later][rfbl] |
+| Think Stats | Copyright © 2011 Allen B. Downey. | [CC BY-NC 3.0][CC BY-NC 3.0] |
 | Thoughtful Machine Learning with Python | Copyright © 2017 Matthew Kirk | All rights reserved |
 | Understanding Machine Learning_ From Theory to Algorithms | © Shai Shalev-Shwartz and Shai Ben-David 2014 | All rights reserved |
 | XGBoost with Python | © Copyright 2018 Jason Brownlee | All rights reserved |
@@ -102,6 +112,7 @@
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
 | Como funciona o Deep Learning | Copyright © 2018 Moacir Ponti and Gabriel De Barros Paranhos da Costa | [CC BY-NC-SA 4.0][CC BY-NC-SA 4.0] |
+| A Brief Introduction to Neural Networks | © David Kriesel | Special license (inside the book) |
 | Advanced Applied Deep Learning | Copyright © 2019 by Umberto Michelucci | All rights reserved |
 | Advanced Deep Learning with Keras | Copyright © 2018 Packt Publishing | All rights reserved |
 | Advanced Machine Learning with Python | Copyright © 2016 Packt Publishing | All rights reserved |
@@ -123,7 +134,7 @@
 | Deep Learning with Python - Apress | Copyright © 2017 by Nikhil Ketkar | All rights reserved |
 | Deep Learning with Python - Machine Learning Mastery | © Copyright 2016 Jason Brownlee | All rights reserved |
 | Deep Learning with Python - Manning | © 2018 by Manning Publications Co. | All rights reserved |
-| Deep Learning | © 2016 Massachusetts Institute of Technology | All rights reserved |
+| Deep Learning - Goodfellow, Bengio and Courville | © 2016 Massachusetts Institute of Technology | All rights reserved |
 | Deep Learning_ A Practitioner's Approach | Copyright © 2017 Josh Patterson and Adam Gibson | All rights reserved |
 | Deep Learning_ Fundamentals, Theory and Applications | © Springer Nature Switzerland AG 2019 | All rights reserved |
 | Deep learning for Time Series Forecasting | © Copyright 2019 Jason Brownlee | All rights reserved |
@@ -137,8 +148,7 @@
 | Java Deep Learning Essentials | Copyright © 2016 Packt Publishing | All rights reserved |
 | Learn Keras for Deep Neural Networks | Copyright © 2019 by Jojo Moolayil | All rights reserved |
 | Learning Tensorflow | Copyright © 2017 Tom Hope, Itay Lieder, and Yehezkel S. Resheff | All rights reserved |
-| Make Your Own Neural Network (1) |  |
-| Make Your Own Neural Network (2) |  |
+| Make Your Own Neural Network |  |
 | Mastering Machine Learning with scikit-learn | Copyright © 2014 Packt Publishing | All rights reserved |
 | Neural Networks and Deep Learning | Copyright © 2019 Michael Nielsen | [CC BY-NC 3.0][CC BY-NC 3.0] |
 | Neural Networks and Deep Learning_ A Textbook | © Springer International Publishing AG, part of Springer Nature 2018 | All rights reserved |
