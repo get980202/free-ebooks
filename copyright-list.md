@@ -465,7 +465,9 @@
 | Curso LaTeX |  ||
 | Curso de Introducao ao LaTeX |  ||
 | Curso de LaTeX |  ||
+| Introducao ao uso do LaTeX | © 2013 Ivo Fernandez Lopez, Maria Darci Godinho da Silva | [CC BY-NC-SA 3.0][CC BY-NC-SA 3.0] |
 | LaTeX by Wikibooks | |[CC BY-SA 3.0][CC BY-SA 3.0] |
+| Principios do LaTeX | © 2013 Lucas Mafaldo Oliveira | [Special license][leanpub] |
 
 ## Linux
 
