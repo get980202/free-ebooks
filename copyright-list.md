@@ -380,6 +380,7 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
+| Apostila_ Linguagens Formais e Automatos |||
 | Linguagens Formais e Automatos | © Springer-Verlag London Limited 2008 | All rights reserved |
 | A Concise Introduction to Languages and Machines | © de Paulo Blauth Menezes | All rights reserved |
 
