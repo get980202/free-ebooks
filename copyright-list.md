@@ -157,9 +157,9 @@
 | Pro Deep Learning with TensorFlow | Copyright © 2017 by Santanu Pattanayak | All rights reserved |
 | Python Deep Learning - 1st ed | Copyright © 2017 Packt Publishing | All rights reserved |
 | Python Deep Learning - 2nd ed | Copyright © 2019 Packt Publishing | All rights reserved |
-| Recent Trends in Artificial Neural Networks | [CC BY 3.0][CC BY 3.0] |
+| Recent Trends in Artificial Neural Networks | | [CC BY 3.0][CC BY 3.0] |
 | Tensorflow for Deep Learning | Copyright © 2018 Reza Zadeh, Bharath Ramsundar | All rights reserved |
-| Visual Object Tracking with Deep Neural Networks | [CC BY 3.0][CC BY 3.0] |
+| Visual Object Tracking with Deep Neural Networks | | [CC BY 3.0][CC BY 3.0] |
 
 ## Basic Math
 
@@ -354,7 +354,7 @@
 |:----:|:---------:|:-------:|
 | Free Range VHDL | Copyright © 2011 B. Mealy, F. Tappero | [CC BY-SA 3.0][CC BY-SA 3.0] |
 | VHDL Generate | Copyright © 2001, Roger Traylor | All rights reserved |
-| VHDL Port Map | [Special license][vhdl-whiz] |  |
+| VHDL Port Map | | [Special license][vhdl-whiz] |  |
 | VHDL Quick Reference Card |  | All rights reserved |
 | VHDL Testbenches |  | All rights reserved |
 
@@ -463,7 +463,7 @@
 
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
-| Apostila de LaTeX | [Special license][uff] |
+| Apostila de LaTeX | | [Special license][uff] |
 | Curso LaTeX |  ||
 | Curso de Introducao ao LaTeX |  ||
 | Curso de LaTeX |  ||
