@@ -203,6 +203,7 @@
 | C++ Cookbook | Copyright © 2006 O’Reilly Media, Inc. | All rights reserved |
 | C++ For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
 | C++ Pocket Reference | Copyright © 2003 O’Reilly Media, Inc. | All rights reserved |
+| C++ Primer Plus | Copyright © 2012 Pearson Education, Inc. | All rights reserved |
 | C++ Today | Copyright © 2015 O’Reilly Media | All rights reserved |
 | C++: The Complete Reference | Copyright © 2003 by The McGraw-Hill Companies | All rights reserved |
 | Guide to Scientific Computing in C++ | © Springer International Publishing AG, part of Springer Nature 2017 | All rights reserved |
@@ -421,7 +422,7 @@
 |:----:|:---------:|:-------:|
 | Aplicacoes Java para a web com JSF e JPA | © Casa do Código | All rights reserved |
 | Apostila Java e POO |  |
-| CDI: Integre as dependencias e contextos do seu codigo Java | © Casa do Código | All rights reserved |
+| CDI_ Integre as dependencias e contextos do seu codigo Java | © Casa do Código | All rights reserved |
 | Componentes Reutilizaveis em Java Com Reflexoes e Anotacoes | © Casa do Código | All rights reserved |
 | Desbravando Java e Orientacao a Objetos_ Um guia para o iniciante da linguagem | © Casa do Código | All rights reserved |
 | Design Patterns com Java_ Projeto orientado a objetos guiado por padroes | © Casa do Código | All rights reserved |
@@ -505,8 +506,9 @@
 | Mastering Linux | © 2011 by Taylor and Francis Group, LLC | All rights reserved |
 | MAWK Manual || [GNU FDL 1.3][GNU FDL 1.3] |
 | SED Manual || [GNU FDL 1.3][GNU FDL 1.3] |
+| Shell Programming in Unix, Linux and OS X | Copyright © 2017 by Pearson Education, Inc. | All rights reserved |
 | Ten Steps to Linux Survival | Copyright © 2016 O’Reilly Media, Inc. | All rights reserved |
-| The Linux Command Line || [CC BY-NC-ND 3.0][CC BY-NC-ND 3.0] |
+| The Linux Command Line | Copyright © 2008-2019, William E. Shotts, Jr. | [CC BY-NC-ND 3.0][CC BY-NC-ND 3.0] |
 
 ## Operating Systems
 
@@ -726,7 +728,7 @@
 |:----:|:---------:|:-------:|
 | A Web Mobile_ Programe para um mundo de muitos dispositivos | © Casa do Código | All rights reserved |
 | Coletanea Front-End_ Uma Antologia da Comunidade Front-End Brasileira | © Casa do Código | All rights reserved |
-| Rest: Construa APIs inteligentes de maneira simples | © Casa do Código | All rights reserved |
+| Rest_ Construa APIs inteligentes de maneira simples | © Casa do Código | All rights reserved |
 | Web Design Responsivo_ Paginas adaptaveis para todos os dispositivos | © Casa do Código | All rights reserved |
 | Vue.js 2 and Bootstrap 4 Web Development | Copyright © 2017 Packt Publishing | All rights reserved |
 
