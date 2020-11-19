@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Script to remove EXIF (metadata) info from the PDFs
+
+cd $(dirname $0)
+
+shopt -s globstar
+
+exiftool -all= **/*.pdf 2> /dev/null
+rm -f **/*.pdf_original
