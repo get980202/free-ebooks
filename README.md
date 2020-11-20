@@ -1,6 +1,6 @@
 # :books: free-ebooks :books:
 
-Place to keep free ebooks about :desktop_computer: Computer Science and :1234: Math.
+Place to keep free ebooks about Computer Science and Math.
 
 ### :speech_balloon: Languages
 
@@ -9,6 +9,12 @@ Most of the ebooks are in English. These don't have any prefix in the filename.
 The ebooks written in Brazilian Portuguese, however, have the `(PT)` prefix to indicate it.
 
 The folders are all in English, to make things easy.
+
+### :card_file_box: Organization
+
+Whenever possible, books are placed in the most appropriate folder. Some folders have subfolders; in that case, the book may be inside one of the subfolders.
+
+"Miscellaneous" books (or, sometimes, books that belong to a bundle or collection) are placed inside the "z Other books" folder. If you can't find the book you're looking for, you might want to check this folder out too.
 
 ### :elephant: Large ebooks
 
