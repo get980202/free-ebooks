@@ -763,15 +763,17 @@
 | CSS Cookbook | Copyright © 2010 O’Reilly Media, Inc. | All rights reserved |
 | CSS Pocket Reference | Copyright © 2011 O’Reilly Media, Inc. | All rights reserved |
 | CSS_ The Definitive Guide | Copyright © 2018 Eric Meyer, Estelle Weyl. | All rights reserved |
-| CSS3_ The Missing Manual | Copyright © 2013 Sawyer McFarland Media, Inc. | All rights reserved |
+| CSS_ The Missing Manual | Copyright © 2015 David Sawyer McFarland | All rights reserved |
 | Canvas Pocket Reference | Copyright © 2011 David Flanagan | All rights reserved |
 | Coding with JavaScript For Dummies | Copyright © 2015 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
 | Eloquent Javascript || [CC BY-NC 3.0][CC BY-NC 3.0] |
 | HTML & CSS_ Design and build websites | © 2011 by John Wiley & Sons, Inc., Indianapolis, Indiana | All rights reserved |
+| HTML & CSS_ The Complete Reference | Copyright © 2010 by The McGraw-Hill Companies. | All rights reserved |
 | HTML & CSS_ The Good Parts | Copyright © 2010 Ben Henick | All rights reserved |
 | HTML, CSS & JavaScript Mobile Development for Dummies | Copyright © 2011 by John Wiley & Sons, Inc. | All rights reserved |
 | HTML5 Pocket Reference | Copyright © 2013 Littlechair, Inc. | All rights reserved |
 | HTML5 and CSS3 All-in-One For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
+| HTML5_ The Missing Manual | Copyright © 2014 Matthew MacDonald | All rights reserved |
 | JavaScript Pocket Reference | Copyright © 2012 David Flanagan | All rights reserved |
 | JavaScript_ Best Practice | Copyright © 2018 SitePoint Pty. Ltd. | All rights reserved |
 | JavaScript_ Novice to Ninja | Copyright © 2017 SitePoint Pty. Ltd. | All rights reserved |
