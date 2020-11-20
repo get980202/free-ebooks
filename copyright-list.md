@@ -836,6 +836,59 @@
 | C# e Orientacao a Objetos |  |
 | UX e Usabilidade Aplicados em Mobile e Web |  |
 
+#### Goal Kicker
+
+| Book | Copyright | License |
+|:----:|:---------:|:-------:|
+| Algorithms Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Android Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Angular 2 Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Angular JS Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Bash Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| C Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| C# Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| C++ Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| CSS Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| DotNET Framework Notes for Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Entity Framework Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Excel VBA Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Git Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Haskell Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Hibernate Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| HTML5 Canvas Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| HTML5 Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| iOS Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Java Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| JavaScript Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| jQuery Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Kotlin Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| LaTeX Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Linux Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| MATLAB Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Microsoft SQL Server Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| MongoDB Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| MySQL Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| NodeJS Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| ObjectiveC Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Oracle Database Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Perl Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| PHP Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| PostgreSQL Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| PowerShell Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Python Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| React JS Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| React Native Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| R Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Ruby Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Ruby On Rails Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Spring Framework Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| SQL Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Swift Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| TypeScript Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| VBA Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Visual Basic DotNET Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| Xamarin_Forms Notes For Professionals.pdf | Inside the book | [CC BY-SA 4.0][CC BY-SA 4.0] |
+
 #### (PT) Casa do Código
 
 | Book | Copyright | License |
